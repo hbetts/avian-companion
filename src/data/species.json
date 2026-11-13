@@ -1,0 +1,4269 @@
+{
+"tz": "Africa/Kampala",
+"species": [
+{
+"sci": "Pycnonotus barbatus",
+"com": "Common Bulbul",
+"slug": "pycnonotus-barbatus",
+"rank": 1,
+"art": {
+"perched": {
+"w": 592,
+"h": 353
+},
+"flight": {
+"w": 640,
+"h": 575
+}
+}
+},
+{
+"sci": "Alopochen aegyptiaca",
+"com": "Egyptian Goose",
+"slug": "alopochen-aegyptiaca",
+"rank": 2,
+"art": {
+"perched": {
+"w": 579,
+"h": 535
+},
+"flight": {
+"w": 592,
+"h": 575
+}
+}
+},
+{
+"sci": "Ardea melanocephala",
+"com": "Black-headed Heron",
+"slug": "ardea-melanocephala",
+"rank": 3,
+"art": {
+"perched": {
+"w": 459,
+"h": 640
+},
+"flight": {
+"w": 466,
+"h": 640
+}
+}
+},
+{
+"sci": "Bostrychia hagedash",
+"com": "Hadada Ibis",
+"slug": "bostrychia-hagedash",
+"rank": 4,
+"art": {
+"perched": {
+"w": 466,
+"h": 640
+},
+"flight": {
+"w": 491,
+"h": 640
+}
+}
+},
+{
+"sci": "Cinnyris venustus",
+"com": "Variable Sunbird",
+"slug": "cinnyris-venustus",
+"rank": 5,
+"art": {
+"perched": {
+"w": 551,
+"h": 471
+}
+}
+},
+{
+"sci": "Colius striatus",
+"com": "Speckled Mousebird",
+"slug": "colius-striatus",
+"rank": 6,
+"art": {
+"perched": {
+"w": 238,
+"h": 640
+}
+}
+},
+{
+"sci": "Corvus albus",
+"com": "Pied Crow",
+"slug": "corvus-albus",
+"rank": 7,
+"art": {
+"perched": {
+"w": 602,
+"h": 628
+},
+"flight": {
+"w": 640,
+"h": 577
+}
+}
+},
+{
+"sci": "Leptoptilos crumenifer",
+"com": "Marabou Stork",
+"slug": "leptoptilos-crumenifer",
+"rank": 8,
+"art": {
+"perched": {
+"w": 382,
+"h": 640
+}
+}
+},
+{
+"sci": "Motacilla aguimp",
+"com": "African Pied Wagtail",
+"slug": "motacilla-aguimp",
+"rank": 9,
+"art": {}
+},
+{
+"sci": "Streptopelia capicola",
+"com": "Ring-necked Dove",
+"slug": "streptopelia-capicola",
+"rank": 10,
+"art": {}
+},
+{
+"sci": "Dicrurus adsimilis",
+"com": "Fork-tailed Drongo",
+"slug": "dicrurus-adsimilis",
+"rank": 11,
+"art": {}
+},
+{
+"sci": "Streptopelia semitorquata",
+"com": "Red-eyed Dove",
+"slug": "streptopelia-semitorquata",
+"rank": 12,
+"art": {}
+},
+{
+"sci": "Lanius humeralis",
+"com": "Northern Fiscal",
+"slug": "lanius-humeralis",
+"rank": 13,
+"art": {}
+},
+{
+"sci": "Camaroptera brachyura",
+"com": "Green-backed Camaroptera",
+"slug": "camaroptera-brachyura",
+"rank": 14,
+"art": {}
+},
+{
+"sci": "Lamprotornis purpuroptera",
+"com": "Rüppell's Starling",
+"slug": "lamprotornis-purpuroptera",
+"rank": 15,
+"art": {}
+},
+{
+"sci": "Scopus umbretta",
+"com": "Hamerkop",
+"slug": "scopus-umbretta",
+"rank": 16,
+"art": {}
+},
+{
+"sci": "Turdus pelios",
+"com": "African Thrush",
+"slug": "turdus-pelios",
+"rank": 17,
+"art": {
+"perched": {
+"w": 544,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 537
+}
+}
+},
+{
+"sci": "Passer griseus",
+"com": "Northern Gray-headed Sparrow",
+"slug": "passer-griseus",
+"rank": 18,
+"art": {}
+},
+{
+"sci": "Ploceus cucullatus",
+"com": "Village Weaver",
+"slug": "ploceus-cucullatus",
+"rank": 19,
+"art": {}
+},
+{
+"sci": "Halcyon senegalensis",
+"com": "Woodland Kingfisher",
+"slug": "halcyon-senegalensis",
+"rank": 20,
+"art": {}
+},
+{
+"sci": "Ploceus baglafecht",
+"com": "Baglafecht Weaver",
+"slug": "ploceus-baglafecht",
+"rank": 21,
+"art": {}
+},
+{
+"sci": "Ceryle rudis",
+"com": "Pied Kingfisher",
+"slug": "ceryle-rudis",
+"rank": 22,
+"art": {}
+},
+{
+"sci": "Chalcomitra senegalensis",
+"com": "Scarlet-chested Sunbird",
+"slug": "chalcomitra-senegalensis",
+"rank": 23,
+"art": {}
+},
+{
+"sci": "Bycanistes subcylindricus",
+"com": "Black-and-white-casqued Hornbill",
+"slug": "bycanistes-subcylindricus",
+"rank": 24,
+"art": {}
+},
+{
+"sci": "Cossypha heuglini",
+"com": "White-browed Robin-Chat",
+"slug": "cossypha-heuglini",
+"rank": 25,
+"art": {}
+},
+{
+"sci": "Milvus migrans",
+"com": "Black Kite",
+"slug": "milvus-migrans",
+"rank": 26,
+"art": {}
+},
+{
+"sci": "Bubulcus ibis",
+"com": "Cattle Egret",
+"slug": "bubulcus-ibis",
+"rank": 27,
+"art": {
+"perched": {
+"w": 428,
+"h": 640
+},
+"flight": {
+"w": 289,
+"h": 383
+}
+}
+},
+{
+"sci": "Spermestes cucullata",
+"com": "Bronze Mannikin",
+"slug": "spermestes-cucullata",
+"rank": 28,
+"art": {}
+},
+{
+"sci": "Laniarius erythrogaster",
+"com": "Black-headed Gonolek",
+"slug": "laniarius-erythrogaster",
+"rank": 29,
+"art": {}
+},
+{
+"sci": "Terpsiphone viridis",
+"com": "African Paradise-Flycatcher",
+"slug": "terpsiphone-viridis",
+"rank": 30,
+"art": {}
+},
+{
+"sci": "Eurystomus glaucurus",
+"com": "Broad-billed Roller",
+"slug": "eurystomus-glaucurus",
+"rank": 31,
+"art": {}
+},
+{
+"sci": "Prinia subflava",
+"com": "Tawny-flanked Prinia",
+"slug": "prinia-subflava",
+"rank": 32,
+"art": {}
+},
+{
+"sci": "Turtur afer",
+"com": "Blue-spotted Wood-Dove",
+"slug": "turtur-afer",
+"rank": 33,
+"art": {}
+},
+{
+"sci": "Ploceus melanocephalus",
+"com": "Black-headed Weaver",
+"slug": "ploceus-melanocephalus",
+"rank": 34,
+"art": {}
+},
+{
+"sci": "Egretta garzetta",
+"com": "Little Egret",
+"slug": "egretta-garzetta",
+"rank": 35,
+"art": {}
+},
+{
+"sci": "Cinnyris erythrocercus",
+"com": "Red-chested Sunbird",
+"slug": "cinnyris-erythrocercus",
+"rank": 36,
+"art": {}
+},
+{
+"sci": "Crithagra mozambica",
+"com": "Yellow-fronted Canary",
+"slug": "crithagra-mozambica",
+"rank": 37,
+"art": {}
+},
+{
+"sci": "Lybius bidentatus",
+"com": "Double-toothed Barbet",
+"slug": "lybius-bidentatus",
+"rank": 38,
+"art": {}
+},
+{
+"sci": "Hirundo rustica",
+"com": "Barn Swallow",
+"slug": "hirundo-rustica",
+"rank": 39,
+"art": {
+"perched": {
+"w": 480,
+"h": 640
+},
+"flight": {
+"w": 594,
+"h": 640
+}
+}
+},
+{
+"sci": "Lagonosticta senegala",
+"com": "Red-billed Firefinch",
+"slug": "lagonosticta-senegala",
+"rank": 40,
+"art": {}
+},
+{
+"sci": "Lophaetus occipitalis",
+"com": "Long-crested Eagle",
+"slug": "lophaetus-occipitalis",
+"rank": 41,
+"art": {}
+},
+{
+"sci": "Vidua macroura",
+"com": "Pin-tailed Whydah",
+"slug": "vidua-macroura",
+"rank": 42,
+"art": {}
+},
+{
+"sci": "Platysteira cyanea",
+"com": "Brown-throated Wattle-eye",
+"slug": "platysteira-cyanea",
+"rank": 43,
+"art": {}
+},
+{
+"sci": "Corythornis cristatus",
+"com": "Malachite Kingfisher",
+"slug": "corythornis-cristatus",
+"rank": 44,
+"art": {}
+},
+{
+"sci": "Corythaeola cristata",
+"com": "Great Blue Turaco",
+"slug": "corythaeola-cristata",
+"rank": 45,
+"art": {
+"perched": {
+"w": 491,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 589
+}
+}
+},
+{
+"sci": "Treron calvus",
+"com": "African Green-Pigeon",
+"slug": "treron-calvus",
+"rank": 46,
+"art": {}
+},
+{
+"sci": "Actophilornis africanus",
+"com": "African Jacana",
+"slug": "actophilornis-africanus",
+"rank": 47,
+"art": {}
+},
+{
+"sci": "Haliaeetus vocifer",
+"com": "African Fish-Eagle",
+"slug": "haliaeetus-vocifer",
+"rank": 48,
+"art": {}
+},
+{
+"sci": "Uraeginthus bengalus",
+"com": "Red-cheeked Cordonbleu",
+"slug": "uraeginthus-bengalus",
+"rank": 49,
+"art": {}
+},
+{
+"sci": "Lamprotornis splendidus",
+"com": "Splendid Starling",
+"slug": "lamprotornis-splendidus",
+"rank": 50,
+"art": {}
+},
+{
+"sci": "Laniarius major",
+"com": "Tropical Boubou",
+"slug": "laniarius-major",
+"rank": 51,
+"art": {}
+},
+{
+"sci": "Hirundo angolensis",
+"com": "Angola Swallow",
+"slug": "hirundo-angolensis",
+"rank": 52,
+"art": {}
+},
+{
+"sci": "Polyboroides typus",
+"com": "African Harrier-Hawk",
+"slug": "polyboroides-typus",
+"rank": 53,
+"art": {}
+},
+{
+"sci": "Kaupifalco monogrammicus",
+"com": "Lizard Buzzard",
+"slug": "kaupifalco-monogrammicus",
+"rank": 54,
+"art": {}
+},
+{
+"sci": "Macronyx croceus",
+"com": "Yellow-throated Longclaw",
+"slug": "macronyx-croceus",
+"rank": 55,
+"art": {}
+},
+{
+"sci": "Turtur tympanistria",
+"com": "Tambourine Dove",
+"slug": "turtur-tympanistria",
+"rank": 56,
+"art": {}
+},
+{
+"sci": "Streptopelia senegalensis",
+"com": "Laughing Dove",
+"slug": "streptopelia-senegalensis",
+"rank": 57,
+"art": {}
+},
+{
+"sci": "Muscicapa aquatica",
+"com": "Swamp Flycatcher",
+"slug": "muscicapa-aquatica",
+"rank": 58,
+"art": {}
+},
+{
+"sci": "Elminia longicauda",
+"com": "African Blue Flycatcher",
+"slug": "elminia-longicauda",
+"rank": 59,
+"art": {}
+},
+{
+"sci": "Cecropis abyssinica",
+"com": "Lesser Striped Swallow",
+"slug": "cecropis-abyssinica",
+"rank": 60,
+"art": {}
+},
+{
+"sci": "Numida meleagris",
+"com": "Helmeted Guineafowl",
+"slug": "numida-meleagris",
+"rank": 61,
+"art": {}
+},
+{
+"sci": "Pogoniulus bilineatus",
+"com": "Yellow-rumped Tinkerbird",
+"slug": "pogoniulus-bilineatus",
+"rank": 62,
+"art": {}
+},
+{
+"sci": "Psittacus erithacus",
+"com": "Gray Parrot",
+"slug": "psittacus-erithacus",
+"rank": 63,
+"art": {}
+},
+{
+"sci": "Centropus superciliosus",
+"com": "White-browed Coucal",
+"slug": "centropus-superciliosus",
+"rank": 64,
+"art": {}
+},
+{
+"sci": "Poicephalus meyeri",
+"com": "Meyer's Parrot",
+"slug": "poicephalus-meyeri",
+"rank": 65,
+"art": {}
+},
+{
+"sci": "Cisticola marginatus",
+"com": "Winding Cisticola",
+"slug": "cisticola-marginatus",
+"rank": 66,
+"art": {}
+},
+{
+"sci": "Zapornia flavirostra",
+"com": "Black Crake",
+"slug": "zapornia-flavirostra",
+"rank": 67,
+"art": {}
+},
+{
+"sci": "Nectarinia kilimensis",
+"com": "Bronze Sunbird",
+"slug": "nectarinia-kilimensis",
+"rank": 68,
+"art": {}
+},
+{
+"sci": "Balearica regulorum",
+"com": "Gray Crowned-Crane",
+"slug": "balearica-regulorum",
+"rank": 69,
+"art": {}
+},
+{
+"sci": "Melaenornis edolioides",
+"com": "Northern Black-Flycatcher",
+"slug": "melaenornis-edolioides",
+"rank": 70,
+"art": {}
+},
+{
+"sci": "Musophaga rossae",
+"com": "Ross's Turaco",
+"slug": "musophaga-rossae",
+"rank": 71,
+"art": {}
+},
+{
+"sci": "Cuculus solitarius",
+"com": "Red-chested Cuckoo",
+"slug": "cuculus-solitarius",
+"rank": 72,
+"art": {}
+},
+{
+"sci": "Eminia lepida",
+"com": "Gray-capped Warbler",
+"slug": "eminia-lepida",
+"rank": 73,
+"art": {}
+},
+{
+"sci": "Hedydipna collaris",
+"com": "Collared Sunbird",
+"slug": "hedydipna-collaris",
+"rank": 74,
+"art": {}
+},
+{
+"sci": "Actitis hypoleucos",
+"com": "Common Sandpiper",
+"slug": "actitis-hypoleucos",
+"rank": 75,
+"art": {}
+},
+{
+"sci": "Myrmecocichla nigra",
+"com": "Sooty Chat",
+"slug": "myrmecocichla-nigra",
+"rank": 76,
+"art": {}
+},
+{
+"sci": "Apus affinis",
+"com": "Little Swift",
+"slug": "apus-affinis",
+"rank": 77,
+"art": {}
+},
+{
+"sci": "Merops albicollis",
+"com": "White-throated Bee-eater",
+"slug": "merops-albicollis",
+"rank": 78,
+"art": {}
+},
+{
+"sci": "Cypsiurus parvus",
+"com": "African Palm-Swift",
+"slug": "cypsiurus-parvus",
+"rank": 79,
+"art": {}
+},
+{
+"sci": "Chrysococcyx klaas",
+"com": "Klaas's Cuckoo",
+"slug": "chrysococcyx-klaas",
+"rank": 80,
+"art": {}
+},
+{
+"sci": "Columba guinea",
+"com": "Speckled Pigeon",
+"slug": "columba-guinea",
+"rank": 81,
+"art": {}
+},
+{
+"sci": "Lophoceros alboterminatus",
+"com": "Crowned Hornbill",
+"slug": "lophoceros-alboterminatus",
+"rank": 82,
+"art": {}
+},
+{
+"sci": "Buphagus africanus",
+"com": "Yellow-billed Oxpecker",
+"slug": "buphagus-africanus",
+"rank": 83,
+"art": {}
+},
+{
+"sci": "Ardea alba",
+"com": "Great Egret",
+"slug": "ardea-alba",
+"rank": 84,
+"art": {
+"perched": {
+"w": 299,
+"h": 592
+},
+"flight": {
+"w": 278,
+"h": 319
+}
+}
+},
+{
+"sci": "Eurillas virens",
+"com": "Little Greenbul",
+"slug": "eurillas-virens",
+"rank": 85,
+"art": {}
+},
+{
+"sci": "Ardea cinerea",
+"com": "Gray Heron",
+"slug": "ardea-cinerea",
+"rank": 86,
+"art": {}
+},
+{
+"sci": "Anas undulata",
+"com": "Yellow-billed Duck",
+"slug": "anas-undulata",
+"rank": 87,
+"art": {}
+},
+{
+"sci": "Muscicapa adusta",
+"com": "African Dusky Flycatcher",
+"slug": "muscicapa-adusta",
+"rank": 88,
+"art": {}
+},
+{
+"sci": "Vanellus senegallus",
+"com": "Wattled Lapwing",
+"slug": "vanellus-senegallus",
+"rank": 89,
+"art": {}
+},
+{
+"sci": "Nigrita canicapillus",
+"com": "Gray-headed Nigrita",
+"slug": "nigrita-canicapillus",
+"rank": 90,
+"art": {}
+},
+{
+"sci": "Ploceus ocularis",
+"com": "Spectacled Weaver",
+"slug": "ploceus-ocularis",
+"rank": 91,
+"art": {}
+},
+{
+"sci": "Ardeola ralloides",
+"com": "Squacco Heron",
+"slug": "ardeola-ralloides",
+"rank": 92,
+"art": {}
+},
+{
+"sci": "Cinnyris chloropygius",
+"com": "Olive-bellied Sunbird",
+"slug": "cinnyris-chloropygius",
+"rank": 93,
+"art": {}
+},
+{
+"sci": "Atimastillas flavicollis",
+"com": "Yellow-throated Greenbul",
+"slug": "atimastillas-flavicollis",
+"rank": 94,
+"art": {}
+},
+{
+"sci": "Lophoceros nasutus",
+"com": "African Gray Hornbill",
+"slug": "lophoceros-nasutus",
+"rank": 95,
+"art": {}
+},
+{
+"sci": "Motacilla flava",
+"com": "Western Yellow Wagtail",
+"slug": "motacilla-flava",
+"rank": 96,
+"art": {}
+},
+{
+"sci": "Cisticola erythrops",
+"com": "Red-faced Cisticola",
+"slug": "cisticola-erythrops",
+"rank": 97,
+"art": {}
+},
+{
+"sci": "Halcyon chelicuti",
+"com": "Striped Kingfisher",
+"slug": "halcyon-chelicuti",
+"rank": 98,
+"art": {}
+},
+{
+"sci": "Mirafra africana",
+"com": "Rufous-naped Lark",
+"slug": "mirafra-africana",
+"rank": 99,
+"art": {}
+},
+{
+"sci": "Burhinus vermiculatus",
+"com": "Water Thick-knee",
+"slug": "burhinus-vermiculatus",
+"rank": 100,
+"art": {}
+},
+{
+"sci": "Ploceus nigerrimus",
+"com": "Vieillot's Weaver",
+"slug": "ploceus-nigerrimus",
+"rank": 101,
+"art": {}
+},
+{
+"sci": "Hirundo smithii",
+"com": "Wire-tailed Swallow",
+"slug": "hirundo-smithii",
+"rank": 102,
+"art": {}
+},
+{
+"sci": "Psalidoprocne pristoptera",
+"com": "Black Sawwing",
+"slug": "psalidoprocne-pristoptera",
+"rank": 103,
+"art": {}
+},
+{
+"sci": "Tringa glareola",
+"com": "Wood Sandpiper",
+"slug": "tringa-glareola",
+"rank": 104,
+"art": {}
+},
+{
+"sci": "Cyanomitra verticalis",
+"com": "Green-headed Sunbird",
+"slug": "cyanomitra-verticalis",
+"rank": 105,
+"art": {}
+},
+{
+"sci": "Estrilda nonnula",
+"com": "Black-crowned Waxbill",
+"slug": "estrilda-nonnula",
+"rank": 106,
+"art": {}
+},
+{
+"sci": "Vanellus spinosus",
+"com": "Spur-winged Lapwing",
+"slug": "vanellus-spinosus",
+"rank": 107,
+"art": {}
+},
+{
+"sci": "Ardea purpurea",
+"com": "Purple Heron",
+"slug": "ardea-purpurea",
+"rank": 108,
+"art": {}
+},
+{
+"sci": "Pternistis afer",
+"com": "Red-necked Francolin",
+"slug": "pternistis-afer",
+"rank": 109,
+"art": {}
+},
+{
+"sci": "Estrilda astrild",
+"com": "Common Waxbill",
+"slug": "estrilda-astrild",
+"rank": 110,
+"art": {}
+},
+{
+"sci": "Turdoides sharpei",
+"com": "Black-lored Babbler",
+"slug": "turdoides-sharpei",
+"rank": 111,
+"art": {}
+},
+{
+"sci": "Dryoscopus gambensis",
+"com": "Northern Puffback",
+"slug": "dryoscopus-gambensis",
+"rank": 112,
+"art": {}
+},
+{
+"sci": "Ploceus nigricollis",
+"com": "Black-necked Weaver",
+"slug": "ploceus-nigricollis",
+"rank": 113,
+"art": {}
+},
+{
+"sci": "Merops pusillus",
+"com": "Little Bee-eater",
+"slug": "merops-pusillus",
+"rank": 114,
+"art": {}
+},
+{
+"sci": "Eurillas latirostris",
+"com": "Yellow-whiskered Greenbul",
+"slug": "eurillas-latirostris",
+"rank": 115,
+"art": {}
+},
+{
+"sci": "Chrysococcyx cupreus",
+"com": "African Emerald Cuckoo",
+"slug": "chrysococcyx-cupreus",
+"rank": 116,
+"art": {}
+},
+{
+"sci": "Chrysococcyx caprius",
+"com": "Dideric Cuckoo",
+"slug": "chrysococcyx-caprius",
+"rank": 117,
+"art": {}
+},
+{
+"sci": "Cinnyris mariquensis",
+"com": "Mariqua Sunbird",
+"slug": "cinnyris-mariquensis",
+"rank": 118,
+"art": {}
+},
+{
+"sci": "Phalacrocorax carbo",
+"com": "Great Cormorant",
+"slug": "phalacrocorax-carbo",
+"rank": 119,
+"art": {}
+},
+{
+"sci": "Tricholaema lacrymosa",
+"com": "Spot-flanked Barbet",
+"slug": "tricholaema-lacrymosa",
+"rank": 120,
+"art": {}
+},
+{
+"sci": "Lamprotornis chalybaeus",
+"com": "Greater Blue-eared Starling",
+"slug": "lamprotornis-chalybaeus",
+"rank": 121,
+"art": {}
+},
+{
+"sci": "Cinnyris cupreus",
+"com": "Copper Sunbird",
+"slug": "cinnyris-cupreus",
+"rank": 122,
+"art": {}
+},
+{
+"sci": "Crithagra sulphurata",
+"com": "Brimstone Canary",
+"slug": "crithagra-sulphurata",
+"rank": 123,
+"art": {}
+},
+{
+"sci": "Cinnyricinclus leucogaster",
+"com": "Violet-backed Starling",
+"slug": "cinnyricinclus-leucogaster",
+"rank": 124,
+"art": {}
+},
+{
+"sci": "Coracias caudatus",
+"com": "Lilac-breasted Roller",
+"slug": "coracias-caudatus",
+"rank": 125,
+"art": {}
+},
+{
+"sci": "Amblyospiza albifrons",
+"com": "Grosbeak Weaver",
+"slug": "amblyospiza-albifrons",
+"rank": 126,
+"art": {}
+},
+{
+"sci": "Cecropis daurica",
+"com": "Red-rumped Swallow",
+"slug": "cecropis-daurica",
+"rank": 127,
+"art": {}
+},
+{
+"sci": "Ploceus jacksoni",
+"com": "Golden-backed Weaver",
+"slug": "ploceus-jacksoni",
+"rank": 128,
+"art": {}
+},
+{
+"sci": "Terpsiphone rufiventer",
+"com": "Black-headed Paradise-Flycatcher",
+"slug": "terpsiphone-rufiventer",
+"rank": 129,
+"art": {}
+},
+{
+"sci": "Centropus monachus",
+"com": "Blue-headed Coucal",
+"slug": "centropus-monachus",
+"rank": 130,
+"art": {}
+},
+{
+"sci": "Pogoniulus chrysoconus",
+"com": "Yellow-fronted Tinkerbird",
+"slug": "pogoniulus-chrysoconus",
+"rank": 131,
+"art": {}
+},
+{
+"sci": "Merops apiaster",
+"com": "European Bee-eater",
+"slug": "merops-apiaster",
+"rank": 132,
+"art": {}
+},
+{
+"sci": "Apus caffer",
+"com": "White-rumped Swift",
+"slug": "apus-caffer",
+"rank": 133,
+"art": {}
+},
+{
+"sci": "Elanus caeruleus",
+"com": "Black-winged Kite",
+"slug": "elanus-caeruleus",
+"rank": 134,
+"art": {}
+},
+{
+"sci": "Buteo augur",
+"com": "Augur Buzzard",
+"slug": "buteo-augur",
+"rank": 135,
+"art": {}
+},
+{
+"sci": "Sarothrura pulchra",
+"com": "White-spotted Flufftail",
+"slug": "sarothrura-pulchra",
+"rank": 136,
+"art": {}
+},
+{
+"sci": "Anthus cinnamomeus",
+"com": "African Pipit",
+"slug": "anthus-cinnamomeus",
+"rank": 137,
+"art": {}
+},
+{
+"sci": "Halcyon leucocephala",
+"com": "Gray-headed Kingfisher",
+"slug": "halcyon-leucocephala",
+"rank": 138,
+"art": {}
+},
+{
+"sci": "Anthus leucophrys",
+"com": "Plain-backed Pipit",
+"slug": "anthus-leucophrys",
+"rank": 139,
+"art": {}
+},
+{
+"sci": "Vidua chalybeata",
+"com": "Village Indigobird",
+"slug": "vidua-chalybeata",
+"rank": 140,
+"art": {}
+},
+{
+"sci": "Pogoniulus subsulphureus",
+"com": "Yellow-throated Tinkerbird",
+"slug": "pogoniulus-subsulphureus",
+"rank": 141,
+"art": {}
+},
+{
+"sci": "Pogoniulus scolopaceus",
+"com": "Speckled Tinkerbird",
+"slug": "pogoniulus-scolopaceus",
+"rank": 142,
+"art": {}
+},
+{
+"sci": "Chlidonias leucopterus",
+"com": "White-winged Tern",
+"slug": "chlidonias-leucopterus",
+"rank": 143,
+"art": {}
+},
+{
+"sci": "Phylloscopus trochilus",
+"com": "Willow Warbler",
+"slug": "phylloscopus-trochilus",
+"rank": 144,
+"art": {}
+},
+{
+"sci": "Oriolus brachyrynchus",
+"com": "Western Black-headed Oriole",
+"slug": "oriolus-brachyrynchus",
+"rank": 145,
+"art": {}
+},
+{
+"sci": "Cyanomitra olivacea",
+"com": "Olive Sunbird",
+"slug": "cyanomitra-olivacea",
+"rank": 146,
+"art": {}
+},
+{
+"sci": "Riparia riparia",
+"com": "Bank Swallow",
+"slug": "riparia-riparia",
+"rank": 147,
+"art": {
+"perched": {
+"w": 495,
+"h": 520
+},
+"flight": {
+"w": 623,
+"h": 640
+}
+}
+},
+{
+"sci": "Tchagra senegalus",
+"com": "Black-crowned Tchagra",
+"slug": "tchagra-senegalus",
+"rank": 148,
+"art": {}
+},
+{
+"sci": "Butorides striata",
+"com": "Striated Heron",
+"slug": "butorides-striata",
+"rank": 149,
+"art": {}
+},
+{
+"sci": "Tchagra australis",
+"com": "Brown-crowned Tchagra",
+"slug": "tchagra-australis",
+"rank": 150,
+"art": {}
+},
+{
+"sci": "Merops oreobates",
+"com": "Cinnamon-chested Bee-eater",
+"slug": "merops-oreobates",
+"rank": 151,
+"art": {}
+},
+{
+"sci": "Turdoides jardineii",
+"com": "Arrow-marked Babbler",
+"slug": "turdoides-jardineii",
+"rank": 152,
+"art": {}
+},
+{
+"sci": "Batis molitor",
+"com": "Chinspot Batis",
+"slug": "batis-molitor",
+"rank": 153,
+"art": {}
+},
+{
+"sci": "Melaenornis fischeri",
+"com": "White-eyed Slaty-Flycatcher",
+"slug": "melaenornis-fischeri",
+"rank": 154,
+"art": {}
+},
+{
+"sci": "Ploceus xanthops",
+"com": "Holub's Golden-Weaver",
+"slug": "ploceus-xanthops",
+"rank": 155,
+"art": {}
+},
+{
+"sci": "Gelochelidon nilotica",
+"com": "Gull-billed Tern",
+"slug": "gelochelidon-nilotica",
+"rank": 156,
+"art": {}
+},
+{
+"sci": "Cisticola chiniana",
+"com": "Rattling Cisticola",
+"slug": "cisticola-chiniana",
+"rank": 157,
+"art": {}
+},
+{
+"sci": "Ardea intermedia",
+"com": "Intermediate Egret",
+"slug": "ardea-intermedia",
+"rank": 158,
+"art": {}
+},
+{
+"sci": "Chroicocephalus cirrocephalus",
+"com": "Gray-hooded Gull",
+"slug": "chroicocephalus-cirrocephalus",
+"rank": 159,
+"art": {}
+},
+{
+"sci": "Urocolius macrourus",
+"com": "Blue-naped Mousebird",
+"slug": "urocolius-macrourus",
+"rank": 160,
+"art": {}
+},
+{
+"sci": "Buccanodon duchaillui",
+"com": "Yellow-spotted Barbet",
+"slug": "buccanodon-duchaillui",
+"rank": 161,
+"art": {}
+},
+{
+"sci": "Himantopus himantopus",
+"com": "Black-winged Stilt",
+"slug": "himantopus-himantopus",
+"rank": 162,
+"art": {}
+},
+{
+"sci": "Chloropicus fuscescens",
+"com": "Cardinal Woodpecker",
+"slug": "chloropicus-fuscescens",
+"rank": 163,
+"art": {}
+},
+{
+"sci": "Gallinula chloropus",
+"com": "Eurasian Moorhen",
+"slug": "gallinula-chloropus",
+"rank": 164,
+"art": {}
+},
+{
+"sci": "Saxicola torquatus",
+"com": "African Stonechat",
+"slug": "saxicola-torquatus",
+"rank": 165,
+"art": {}
+},
+{
+"sci": "Melocichla mentalis",
+"com": "Moustached Grass-Warbler",
+"slug": "melocichla-mentalis",
+"rank": 166,
+"art": {}
+},
+{
+"sci": "Hylia prasina",
+"com": "Green Hylia",
+"slug": "hylia-prasina",
+"rank": 167,
+"art": {}
+},
+{
+"sci": "Stelgidillas gracilirostris",
+"com": "Slender-billed Greenbul",
+"slug": "stelgidillas-gracilirostris",
+"rank": 168,
+"art": {}
+},
+{
+"sci": "Calidris minuta",
+"com": "Little Stint",
+"slug": "calidris-minuta",
+"rank": 169,
+"art": {}
+},
+{
+"sci": "Chloropicus goertae",
+"com": "African Gray Woodpecker",
+"slug": "chloropicus-goertae",
+"rank": 170,
+"art": {}
+},
+{
+"sci": "Dendrocygna viduata",
+"com": "White-faced Whistling-Duck",
+"slug": "dendrocygna-viduata",
+"rank": 171,
+"art": {}
+},
+{
+"sci": "Cercotrichas hartlaubi",
+"com": "Brown-backed Scrub-Robin",
+"slug": "cercotrichas-hartlaubi",
+"rank": 172,
+"art": {}
+},
+{
+"sci": "Cisticola juncidis",
+"com": "Zitting Cisticola",
+"slug": "cisticola-juncidis",
+"rank": 173,
+"art": {}
+},
+{
+"sci": "Calidris pugnax",
+"com": "Ruff",
+"slug": "calidris-pugnax",
+"rank": 174,
+"art": {}
+},
+{
+"sci": "Streptopelia decipiens",
+"com": "Mourning Collared-Dove",
+"slug": "streptopelia-decipiens",
+"rank": 175,
+"art": {}
+},
+{
+"sci": "Cossypha niveicapilla",
+"com": "Snowy-crowned Robin-Chat",
+"slug": "cossypha-niveicapilla",
+"rank": 176,
+"art": {}
+},
+{
+"sci": "Tringa ochropus",
+"com": "Green Sandpiper",
+"slug": "tringa-ochropus",
+"rank": 177,
+"art": {}
+},
+{
+"sci": "Tringa nebularia",
+"com": "Common Greenshank",
+"slug": "tringa-nebularia",
+"rank": 178,
+"art": {}
+},
+{
+"sci": "Telophorus sulfureopectus",
+"com": "Sulphur-breasted Bushshrike",
+"slug": "telophorus-sulfureopectus",
+"rank": 179,
+"art": {}
+},
+{
+"sci": "Passer domesticus",
+"com": "House Sparrow",
+"slug": "passer-domesticus",
+"rank": 180,
+"art": {
+"perched": {
+"w": 509,
+"h": 415
+},
+"flight": {
+"w": 487,
+"h": 504
+}
+}
+},
+{
+"sci": "Lagonosticta rubricata",
+"com": "African Firefinch",
+"slug": "lagonosticta-rubricata",
+"rank": 181,
+"art": {}
+},
+{
+"sci": "Apalis flavida",
+"com": "Yellow-breasted Apalis",
+"slug": "apalis-flavida",
+"rank": 182,
+"art": {}
+},
+{
+"sci": "Apaloderma narina",
+"com": "Narina Trogon",
+"slug": "apaloderma-narina",
+"rank": 183,
+"art": {}
+},
+{
+"sci": "Phoeniculus purpureus",
+"com": "Green Woodhoopoe",
+"slug": "phoeniculus-purpureus",
+"rank": 184,
+"art": {}
+},
+{
+"sci": "Cisticola natalensis",
+"com": "Croaking Cisticola",
+"slug": "cisticola-natalensis",
+"rank": 185,
+"art": {}
+},
+{
+"sci": "Riparia paludicola",
+"com": "Plain Martin",
+"slug": "riparia-paludicola",
+"rank": 186,
+"art": {}
+},
+{
+"sci": "Saxicola rubetra",
+"com": "Whinchat",
+"slug": "saxicola-rubetra",
+"rank": 187,
+"art": {}
+},
+{
+"sci": "Ptyonoprogne fuligula",
+"com": "Rock Martin",
+"slug": "ptyonoprogne-fuligula",
+"rank": 188,
+"art": {}
+},
+{
+"sci": "Ceuthmochares aereus",
+"com": "Blue Malkoha",
+"slug": "ceuthmochares-aereus",
+"rank": 189,
+"art": {}
+},
+{
+"sci": "Oriolus larvatus",
+"com": "African Black-headed Oriole",
+"slug": "oriolus-larvatus",
+"rank": 190,
+"art": {}
+},
+{
+"sci": "Apalis rufogularis",
+"com": "Buff-throated Apalis",
+"slug": "apalis-rufogularis",
+"rank": 191,
+"art": {}
+},
+{
+"sci": "Plegadis falcinellus",
+"com": "Glossy Ibis",
+"slug": "plegadis-falcinellus",
+"rank": 192,
+"art": {}
+},
+{
+"sci": "Buteo buteo",
+"com": "Common Buzzard",
+"slug": "buteo-buteo",
+"rank": 193,
+"art": {}
+},
+{
+"sci": "Falco tinnunculus",
+"com": "Eurasian Kestrel",
+"slug": "falco-tinnunculus",
+"rank": 194,
+"art": {}
+},
+{
+"sci": "Campethera nubica",
+"com": "Nubian Woodpecker",
+"slug": "campethera-nubica",
+"rank": 195,
+"art": {}
+},
+{
+"sci": "Gymnobucco bonapartei",
+"com": "Gray-throated Barbet",
+"slug": "gymnobucco-bonapartei",
+"rank": 196,
+"art": {}
+},
+{
+"sci": "Fulica cristata",
+"com": "Red-knobbed Coot",
+"slug": "fulica-cristata",
+"rank": 197,
+"art": {}
+},
+{
+"sci": "Muscicapa striata",
+"com": "Spotted Flycatcher",
+"slug": "muscicapa-striata",
+"rank": 198,
+"art": {}
+},
+{
+"sci": "Tachybaptus ruficollis",
+"com": "Little Grebe",
+"slug": "tachybaptus-ruficollis",
+"rank": 199,
+"art": {}
+},
+{
+"sci": "Nycticorax nycticorax",
+"com": "Black-crowned Night-Heron",
+"slug": "nycticorax-nycticorax",
+"rank": 200,
+"art": {
+"perched": {
+"w": 539,
+"h": 640
+},
+"flight": {
+"w": 304,
+"h": 360
+}
+}
+},
+{
+"sci": "Emberiza flaviventris",
+"com": "Golden-breasted Bunting",
+"slug": "emberiza-flaviventris",
+"rank": 201,
+"art": {}
+},
+{
+"sci": "Circus pygargus",
+"com": "Montagu's Harrier",
+"slug": "circus-pygargus",
+"rank": 202,
+"art": {}
+},
+{
+"sci": "Upupa epops",
+"com": "Eurasian Hoopoe",
+"slug": "upupa-epops",
+"rank": 203,
+"art": {}
+},
+{
+"sci": "Laniarius mufumbiri",
+"com": "Papyrus Gonolek",
+"slug": "laniarius-mufumbiri",
+"rank": 204,
+"art": {}
+},
+{
+"sci": "Sylvietta whytii",
+"com": "Red-faced Crombec",
+"slug": "sylvietta-whytii",
+"rank": 205,
+"art": {}
+},
+{
+"sci": "Buphagus erythrorynchus",
+"com": "Red-billed Oxpecker",
+"slug": "buphagus-erythrorynchus",
+"rank": 206,
+"art": {}
+},
+{
+"sci": "Crithagra striolata",
+"com": "Streaky Seedeater",
+"slug": "crithagra-striolata",
+"rank": 207,
+"art": {}
+},
+{
+"sci": "Ploceus luteolus",
+"com": "Little Weaver",
+"slug": "ploceus-luteolus",
+"rank": 208,
+"art": {}
+},
+{
+"sci": "Cinnyris reichenowi",
+"com": "Northern Double-collared Sunbird",
+"slug": "cinnyris-reichenowi",
+"rank": 209,
+"art": {}
+},
+{
+"sci": "Charadrius tricollaris",
+"com": "Three-banded Plover",
+"slug": "charadrius-tricollaris",
+"rank": 210,
+"art": {}
+},
+{
+"sci": "Accipiter tachiro",
+"com": "African Goshawk",
+"slug": "accipiter-tachiro",
+"rank": 211,
+"art": {}
+},
+{
+"sci": "Halcyon malimbica",
+"com": "Blue-breasted Kingfisher",
+"slug": "halcyon-malimbica",
+"rank": 212,
+"art": {}
+},
+{
+"sci": "Cercotrichas leucophrys",
+"com": "Red-backed Scrub-Robin",
+"slug": "cercotrichas-leucophrys",
+"rank": 213,
+"art": {}
+},
+{
+"sci": "Mirafra rufocinnamomea",
+"com": "Flappet Lark",
+"slug": "mirafra-rufocinnamomea",
+"rank": 214,
+"art": {}
+},
+{
+"sci": "Falco peregrinus",
+"com": "Peregrine Falcon",
+"slug": "falco-peregrinus",
+"rank": 215,
+"art": {
+"perched": {
+"w": 449,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 570
+}
+}
+},
+{
+"sci": "Emberiza tahapisi",
+"com": "Cinnamon-breasted Bunting",
+"slug": "emberiza-tahapisi",
+"rank": 216,
+"art": {}
+},
+{
+"sci": "Zosterops senegalensis",
+"com": "Northern Yellow White-eye",
+"slug": "zosterops-senegalensis",
+"rank": 217,
+"art": {}
+},
+{
+"sci": "Euplectes orix",
+"com": "Southern Red Bishop",
+"slug": "euplectes-orix",
+"rank": 218,
+"art": {}
+},
+{
+"sci": "Apalis jacksoni",
+"com": "Black-throated Apalis",
+"slug": "apalis-jacksoni",
+"rank": 219,
+"art": {}
+},
+{
+"sci": "Vanellus coronatus",
+"com": "Crowned Lapwing",
+"slug": "vanellus-coronatus",
+"rank": 220,
+"art": {}
+},
+{
+"sci": "Tringa stagnatilis",
+"com": "Marsh Sandpiper",
+"slug": "tringa-stagnatilis",
+"rank": 221,
+"art": {}
+},
+{
+"sci": "Cuculus clamosus",
+"com": "Black Cuckoo",
+"slug": "cuculus-clamosus",
+"rank": 222,
+"art": {}
+},
+{
+"sci": "Calidris ferruginea",
+"com": "Curlew Sandpiper",
+"slug": "calidris-ferruginea",
+"rank": 223,
+"art": {}
+},
+{
+"sci": "Bathmocercus rufus",
+"com": "Black-faced Rufous-Warbler",
+"slug": "bathmocercus-rufus",
+"rank": 224,
+"art": {}
+},
+{
+"sci": "Megaceryle maxima",
+"com": "Giant Kingfisher",
+"slug": "megaceryle-maxima",
+"rank": 225,
+"art": {}
+},
+{
+"sci": "Cisticola cantans",
+"com": "Singing Cisticola",
+"slug": "cisticola-cantans",
+"rank": 226,
+"art": {}
+},
+{
+"sci": "Larus fuscus",
+"com": "Lesser Black-backed Gull",
+"slug": "larus-fuscus",
+"rank": 227,
+"art": {}
+},
+{
+"sci": "Ploceus intermedius",
+"com": "Lesser Masked-Weaver",
+"slug": "ploceus-intermedius",
+"rank": 228,
+"art": {}
+},
+{
+"sci": "Accipiter melanoleucus",
+"com": "Black Goshawk",
+"slug": "accipiter-melanoleucus",
+"rank": 229,
+"art": {}
+},
+{
+"sci": "Campephaga flava",
+"com": "Black Cuckooshrike",
+"slug": "campephaga-flava",
+"rank": 230,
+"art": {}
+},
+{
+"sci": "Creatophora cinerea",
+"com": "Wattled Starling",
+"slug": "creatophora-cinerea",
+"rank": 231,
+"art": {}
+},
+{
+"sci": "Oenanthe oenanthe",
+"com": "Northern Wheatear",
+"slug": "oenanthe-oenanthe",
+"rank": 232,
+"art": {}
+},
+{
+"sci": "Charadrius hiaticula",
+"com": "Common Ringed Plover",
+"slug": "charadrius-hiaticula",
+"rank": 233,
+"art": {}
+},
+{
+"sci": "Chlidonias hybrida",
+"com": "Whiskered Tern",
+"slug": "chlidonias-hybrida",
+"rank": 234,
+"art": {}
+},
+{
+"sci": "Turtur chalcospilos",
+"com": "Emerald-spotted Wood-Dove",
+"slug": "turtur-chalcospilos",
+"rank": 235,
+"art": {}
+},
+{
+"sci": "Ciconia ciconia",
+"com": "White Stork",
+"slug": "ciconia-ciconia",
+"rank": 236,
+"art": {}
+},
+{
+"sci": "Euplectes ardens",
+"com": "Red-collared Widowbird",
+"slug": "euplectes-ardens",
+"rank": 237,
+"art": {}
+},
+{
+"sci": "Accipiter minullus",
+"com": "Little Sparrowhawk",
+"slug": "accipiter-minullus",
+"rank": 238,
+"art": {}
+},
+{
+"sci": "Pternistis squamatus",
+"com": "Scaly Francolin",
+"slug": "pternistis-squamatus",
+"rank": 239,
+"art": {}
+},
+{
+"sci": "Cinnyris bifasciatus",
+"com": "Purple-banded Sunbird",
+"slug": "cinnyris-bifasciatus",
+"rank": 240,
+"art": {}
+},
+{
+"sci": "Clamator levaillantii",
+"com": "Levaillant's Cuckoo",
+"slug": "clamator-levaillantii",
+"rank": 241,
+"art": {}
+},
+{
+"sci": "Apus apus",
+"com": "Common Swift",
+"slug": "apus-apus",
+"rank": 242,
+"art": {}
+},
+{
+"sci": "Ortygornis sephaena",
+"com": "Crested Francolin",
+"slug": "ortygornis-sephaena",
+"rank": 243,
+"art": {}
+},
+{
+"sci": "Malaconotus blanchoti",
+"com": "Gray-headed Bushshrike",
+"slug": "malaconotus-blanchoti",
+"rank": 244,
+"art": {}
+},
+{
+"sci": "Anthus similis",
+"com": "Long-billed Pipit",
+"slug": "anthus-similis",
+"rank": 245,
+"art": {}
+},
+{
+"sci": "Fraseria caerulescens",
+"com": "Ashy Flycatcher",
+"slug": "fraseria-caerulescens",
+"rank": 246,
+"art": {}
+},
+{
+"sci": "Fraseria plumbea",
+"com": "Gray Tit-Flycatcher",
+"slug": "fraseria-plumbea",
+"rank": 247,
+"art": {}
+},
+{
+"sci": "Euplectes capensis",
+"com": "Yellow Bishop",
+"slug": "euplectes-capensis",
+"rank": 248,
+"art": {}
+},
+{
+"sci": "Falco naumanni",
+"com": "Lesser Kestrel",
+"slug": "falco-naumanni",
+"rank": 249,
+"art": {}
+},
+{
+"sci": "Cossypha natalensis",
+"com": "Red-capped Robin-Chat",
+"slug": "cossypha-natalensis",
+"rank": 250,
+"art": {}
+},
+{
+"sci": "Streptopelia lugens",
+"com": "Dusky Turtle-Dove",
+"slug": "streptopelia-lugens",
+"rank": 251,
+"art": {}
+},
+{
+"sci": "Tyto alba",
+"com": "Barn Owl",
+"slug": "tyto-alba",
+"rank": 252,
+"art": {
+"perched": {
+"w": 411,
+"h": 640
+},
+"flight": {
+"w": 606,
+"h": 631
+}
+}
+},
+{
+"sci": "Indicator minor",
+"com": "Lesser Honeyguide",
+"slug": "indicator-minor",
+"rank": 253,
+"art": {}
+},
+{
+"sci": "Phyllolais pulchella",
+"com": "Buff-bellied Warbler",
+"slug": "phyllolais-pulchella",
+"rank": 254,
+"art": {}
+},
+{
+"sci": "Estrilda paludicola",
+"com": "Fawn-breasted Waxbill",
+"slug": "estrilda-paludicola",
+"rank": 255,
+"art": {}
+},
+{
+"sci": "Quelea quelea",
+"com": "Red-billed Quelea",
+"slug": "quelea-quelea",
+"rank": 256,
+"art": {}
+},
+{
+"sci": "Trachyphonus purpuratus",
+"com": "Yellow-billed Barbet",
+"slug": "trachyphonus-purpuratus",
+"rank": 257,
+"art": {}
+},
+{
+"sci": "Phyllastrephus cabanisi",
+"com": "Cabanis's Greenbul",
+"slug": "phyllastrephus-cabanisi",
+"rank": 258,
+"art": {}
+},
+{
+"sci": "Merops persicus",
+"com": "Blue-cheeked Bee-eater",
+"slug": "merops-persicus",
+"rank": 259,
+"art": {}
+},
+{
+"sci": "Bubo lacteus",
+"com": "Verreaux's Eagle-Owl",
+"slug": "bubo-lacteus",
+"rank": 260,
+"art": {}
+},
+{
+"sci": "Circus aeruginosus",
+"com": "Eurasian Marsh-Harrier",
+"slug": "circus-aeruginosus",
+"rank": 261,
+"art": {}
+},
+{
+"sci": "Coccopygia quartinia",
+"com": "Yellow-bellied Waxbill",
+"slug": "coccopygia-quartinia",
+"rank": 262,
+"art": {}
+},
+{
+"sci": "Stephanoaetus coronatus",
+"com": "Crowned Eagle",
+"slug": "stephanoaetus-coronatus",
+"rank": 263,
+"art": {}
+},
+{
+"sci": "Accipiter badius",
+"com": "Shikra",
+"slug": "accipiter-badius",
+"rank": 264,
+"art": {}
+},
+{
+"sci": "Micronisus gabar",
+"com": "Gabar Goshawk",
+"slug": "micronisus-gabar",
+"rank": 265,
+"art": {}
+},
+{
+"sci": "Indicator indicator",
+"com": "Greater Honeyguide",
+"slug": "indicator-indicator",
+"rank": 266,
+"art": {}
+},
+{
+"sci": "Cisticola woosnami",
+"com": "Trilling Cisticola",
+"slug": "cisticola-woosnami",
+"rank": 267,
+"art": {}
+},
+{
+"sci": "Ptilostomus afer",
+"com": "Piapiac",
+"slug": "ptilostomus-afer",
+"rank": 268,
+"art": {}
+},
+{
+"sci": "Merops variegatus",
+"com": "Blue-breasted Bee-eater",
+"slug": "merops-variegatus",
+"rank": 269,
+"art": {}
+},
+{
+"sci": "Coturnix delegorguei",
+"com": "Harlequin Quail",
+"slug": "coturnix-delegorguei",
+"rank": 270,
+"art": {}
+},
+{
+"sci": "Cuculus canorus",
+"com": "Common Cuckoo",
+"slug": "cuculus-canorus",
+"rank": 271,
+"art": {}
+},
+{
+"sci": "Apalis cinerea",
+"com": "Gray Apalis",
+"slug": "apalis-cinerea",
+"rank": 272,
+"art": {}
+},
+{
+"sci": "Euplectes hordeaceus",
+"com": "Black-winged Bishop",
+"slug": "euplectes-hordeaceus",
+"rank": 273,
+"art": {}
+},
+{
+"sci": "Platysteira castanea",
+"com": "Chestnut Wattle-eye",
+"slug": "platysteira-castanea",
+"rank": 274,
+"art": {}
+},
+{
+"sci": "Neocossyphus fraseri",
+"com": "Rufous Flycatcher-Thrush",
+"slug": "neocossyphus-fraseri",
+"rank": 275,
+"art": {}
+},
+{
+"sci": "Cossypha polioptera",
+"com": "Gray-winged Robin-Chat",
+"slug": "cossypha-polioptera",
+"rank": 276,
+"art": {}
+},
+{
+"sci": "Strix woodfordii",
+"com": "African Wood-Owl",
+"slug": "strix-woodfordii",
+"rank": 277,
+"art": {}
+},
+{
+"sci": "Falco subbuteo",
+"com": "Eurasian Hobby",
+"slug": "falco-subbuteo",
+"rank": 278,
+"art": {}
+},
+{
+"sci": "Laniarius luehderi",
+"com": "Lühder's Bushshrike",
+"slug": "laniarius-luehderi",
+"rank": 279,
+"art": {}
+},
+{
+"sci": "Cisticola brachypterus",
+"com": "Siffling Cisticola",
+"slug": "cisticola-brachypterus",
+"rank": 280,
+"art": {}
+},
+{
+"sci": "Coracias garrulus",
+"com": "European Roller",
+"slug": "coracias-garrulus",
+"rank": 281,
+"art": {}
+},
+{
+"sci": "Ixobrychus minutus",
+"com": "Little Bittern",
+"slug": "ixobrychus-minutus",
+"rank": 282,
+"art": {}
+},
+{
+"sci": "Clamator glandarius",
+"com": "Great Spotted Cuckoo",
+"slug": "clamator-glandarius",
+"rank": 283,
+"art": {}
+},
+{
+"sci": "Delichon urbicum",
+"com": "Common House-Martin",
+"slug": "delichon-urbicum",
+"rank": 284,
+"art": {}
+},
+{
+"sci": "Chloropicus namaquus",
+"com": "Bearded Woodpecker",
+"slug": "chloropicus-namaquus",
+"rank": 285,
+"art": {}
+},
+{
+"sci": "Camaroptera chloronota",
+"com": "Olive-green Camaroptera",
+"slug": "camaroptera-chloronota",
+"rank": 286,
+"art": {}
+},
+{
+"sci": "Iduna natalensis",
+"com": "African Yellow-Warbler",
+"slug": "iduna-natalensis",
+"rank": 287,
+"art": {}
+},
+{
+"sci": "Cisticola chubbi",
+"com": "Chubb's Cisticola",
+"slug": "cisticola-chubbi",
+"rank": 288,
+"art": {}
+},
+{
+"sci": "Glareola pratincola",
+"com": "Collared Pratincole",
+"slug": "glareola-pratincola",
+"rank": 289,
+"art": {}
+},
+{
+"sci": "Pachyphantes superciliosus",
+"com": "Compact Weaver",
+"slug": "pachyphantes-superciliosus",
+"rank": 290,
+"art": {}
+},
+{
+"sci": "Acrocephalus gracilirostris",
+"com": "Lesser Swamp Warbler",
+"slug": "acrocephalus-gracilirostris",
+"rank": 291,
+"art": {}
+},
+{
+"sci": "Caprimulgus tristigma",
+"com": "Freckled Nightjar",
+"slug": "caprimulgus-tristigma",
+"rank": 292,
+"art": {}
+},
+{
+"sci": "Cinnyris pulchellus",
+"com": "Beautiful Sunbird",
+"slug": "cinnyris-pulchellus",
+"rank": 293,
+"art": {}
+},
+{
+"sci": "Cecropis semirufa",
+"com": "Rufous-chested Swallow",
+"slug": "cecropis-semirufa",
+"rank": 294,
+"art": {}
+},
+{
+"sci": "Nilaus afer",
+"com": "Brubru",
+"slug": "nilaus-afer",
+"rank": 295,
+"art": {}
+},
+{
+"sci": "Sylvietta virens",
+"com": "Green Crombec",
+"slug": "sylvietta-virens",
+"rank": 296,
+"art": {}
+},
+{
+"sci": "Clamator jacobinus",
+"com": "Pied Cuckoo",
+"slug": "clamator-jacobinus",
+"rank": 297,
+"art": {}
+},
+{
+"sci": "Illadopsis fulvescens",
+"com": "Brown Illadopsis",
+"slug": "illadopsis-fulvescens",
+"rank": 298,
+"art": {}
+},
+{
+"sci": "Pandion haliaetus",
+"com": "Osprey",
+"slug": "pandion-haliaetus",
+"rank": 299,
+"art": {
+"perched": {
+"w": 520,
+"h": 581
+},
+"flight": {
+"w": 566,
+"h": 640
+}
+}
+},
+{
+"sci": "Merops superciliosus",
+"com": "Madagascar Bee-eater",
+"slug": "merops-superciliosus",
+"rank": 300,
+"art": {}
+},
+{
+"sci": "Bias musicus",
+"com": "Black-and-white Shrike-flycatcher",
+"slug": "bias-musicus",
+"rank": 301,
+"art": {}
+},
+{
+"sci": "Calandrella cinerea",
+"com": "Red-capped Lark",
+"slug": "calandrella-cinerea",
+"rank": 302,
+"art": {}
+},
+{
+"sci": "Eurillas curvirostris",
+"com": "Plain Greenbul",
+"slug": "eurillas-curvirostris",
+"rank": 303,
+"art": {}
+},
+{
+"sci": "Lanius collurio",
+"com": "Red-backed Shrike",
+"slug": "lanius-collurio",
+"rank": 304,
+"art": {}
+},
+{
+"sci": "Indicator variegatus",
+"com": "Scaly-throated Honeyguide",
+"slug": "indicator-variegatus",
+"rank": 305,
+"art": {}
+},
+{
+"sci": "Motacilla capensis",
+"com": "Cape Wagtail",
+"slug": "motacilla-capensis",
+"rank": 306,
+"art": {}
+},
+{
+"sci": "Cuculus gularis",
+"com": "African Cuckoo",
+"slug": "cuculus-gularis",
+"rank": 307,
+"art": {}
+},
+{
+"sci": "Chamaetylas poliocephala",
+"com": "Brown-chested Alethe",
+"slug": "chamaetylas-poliocephala",
+"rank": 308,
+"art": {}
+},
+{
+"sci": "Gallinago gallinago",
+"com": "Common Snipe",
+"slug": "gallinago-gallinago",
+"rank": 309,
+"art": {}
+},
+{
+"sci": "Turdoides plebejus",
+"com": "Brown Babbler",
+"slug": "turdoides-plebejus",
+"rank": 310,
+"art": {}
+},
+{
+"sci": "Thamnolaea cinnamomeiventris",
+"com": "Mocking Cliff-Chat",
+"slug": "thamnolaea-cinnamomeiventris",
+"rank": 311,
+"art": {}
+},
+{
+"sci": "Guttera pucherani",
+"com": "Crested Guineafowl",
+"slug": "guttera-pucherani",
+"rank": 312,
+"art": {}
+},
+{
+"sci": "Bubo africanus",
+"com": "Spotted Eagle-Owl",
+"slug": "bubo-africanus",
+"rank": 313,
+"art": {}
+},
+{
+"sci": "Lybius guifsobalito",
+"com": "Black-billed Barbet",
+"slug": "lybius-guifsobalito",
+"rank": 314,
+"art": {}
+},
+{
+"sci": "Rhinopomastus cyanomelas",
+"com": "Common Scimitarbill",
+"slug": "rhinopomastus-cyanomelas",
+"rank": 315,
+"art": {}
+},
+{
+"sci": "Oena capensis",
+"com": "Namaqua Dove",
+"slug": "oena-capensis",
+"rank": 316,
+"art": {}
+},
+{
+"sci": "Caprimulgus natalensis",
+"com": "Swamp Nightjar",
+"slug": "caprimulgus-natalensis",
+"rank": 317,
+"art": {}
+},
+{
+"sci": "Sylvia borin",
+"com": "Garden Warbler",
+"slug": "sylvia-borin",
+"rank": 318,
+"art": {}
+},
+{
+"sci": "Macheiramphus alcinus",
+"com": "Bat Hawk",
+"slug": "macheiramphus-alcinus",
+"rank": 319,
+"art": {}
+},
+{
+"sci": "Turdus abyssinicus",
+"com": "Abyssinian Thrush",
+"slug": "turdus-abyssinicus",
+"rank": 320,
+"art": {}
+},
+{
+"sci": "Circus macrourus",
+"com": "Pallid Harrier",
+"slug": "circus-macrourus",
+"rank": 321,
+"art": {}
+},
+{
+"sci": "Rallus caerulescens",
+"com": "African Rail",
+"slug": "rallus-caerulescens",
+"rank": 322,
+"art": {}
+},
+{
+"sci": "Dendrocygna bicolor",
+"com": "Fulvous Whistling-Duck",
+"slug": "dendrocygna-bicolor",
+"rank": 323,
+"art": {}
+},
+{
+"sci": "Acrocephalus baeticatus",
+"com": "African Reed Warbler",
+"slug": "acrocephalus-baeticatus",
+"rank": 324,
+"art": {}
+},
+{
+"sci": "Porphyrio madagascariensis",
+"com": "African Swamphen",
+"slug": "porphyrio-madagascariensis",
+"rank": 325,
+"art": {}
+},
+{
+"sci": "Pernis apivorus",
+"com": "European Honey-buzzard",
+"slug": "pernis-apivorus",
+"rank": 326,
+"art": {}
+},
+{
+"sci": "Corvus albicollis",
+"com": "White-necked Raven",
+"slug": "corvus-albicollis",
+"rank": 327,
+"art": {}
+},
+{
+"sci": "Calidris temminckii",
+"com": "Temminck's Stint",
+"slug": "calidris-temminckii",
+"rank": 328,
+"art": {}
+},
+{
+"sci": "Cisticola robustus",
+"com": "Stout Cisticola",
+"slug": "cisticola-robustus",
+"rank": 329,
+"art": {}
+},
+{
+"sci": "Acrocephalus rufescens",
+"com": "Greater Swamp Warbler",
+"slug": "acrocephalus-rufescens",
+"rank": 330,
+"art": {}
+},
+{
+"sci": "Ortygospiza atricollis",
+"com": "Quailfinch",
+"slug": "ortygospiza-atricollis",
+"rank": 331,
+"art": {}
+},
+{
+"sci": "Coracina caesia",
+"com": "Gray Cuckooshrike",
+"slug": "coracina-caesia",
+"rank": 332,
+"art": {}
+},
+{
+"sci": "Anthus trivialis",
+"com": "Tree Pipit",
+"slug": "anthus-trivialis",
+"rank": 333,
+"art": {}
+},
+{
+"sci": "Caprimulgus europaeus",
+"com": "Eurasian Nightjar",
+"slug": "caprimulgus-europaeus",
+"rank": 334,
+"art": {}
+},
+{
+"sci": "Cichladusa guttata",
+"com": "Spotted Morning-Thrush",
+"slug": "cichladusa-guttata",
+"rank": 335,
+"art": {}
+},
+{
+"sci": "Phoeniculus bollei",
+"com": "White-headed Woodhoopoe",
+"slug": "phoeniculus-bollei",
+"rank": 336,
+"art": {}
+},
+{
+"sci": "Sporopipes frontalis",
+"com": "Speckle-fronted Weaver",
+"slug": "sporopipes-frontalis",
+"rank": 337,
+"art": {}
+},
+{
+"sci": "Sarothrura elegans",
+"com": "Buff-spotted Flufftail",
+"slug": "sarothrura-elegans",
+"rank": 338,
+"art": {}
+},
+{
+"sci": "Lanius isabellinus",
+"com": "Isabelline Shrike",
+"slug": "lanius-isabellinus",
+"rank": 339,
+"art": {}
+},
+{
+"sci": "Acrocephalus arundinaceus",
+"com": "Great Reed Warbler",
+"slug": "acrocephalus-arundinaceus",
+"rank": 340,
+"art": {}
+},
+{
+"sci": "Sylvietta brachyura",
+"com": "Northern Crombec",
+"slug": "sylvietta-brachyura",
+"rank": 341,
+"art": {}
+},
+{
+"sci": "Charadrius dubius",
+"com": "Little Ringed Plover",
+"slug": "charadrius-dubius",
+"rank": 342,
+"art": {}
+},
+{
+"sci": "Cossypha cyanocampter",
+"com": "Blue-shouldered Robin-Chat",
+"slug": "cossypha-cyanocampter",
+"rank": 343,
+"art": {}
+},
+{
+"sci": "Acrocephalus schoenobaenus",
+"com": "Sedge Warbler",
+"slug": "acrocephalus-schoenobaenus",
+"rank": 344,
+"art": {}
+},
+{
+"sci": "Iduna pallida",
+"com": "Eastern Olivaceous Warbler",
+"slug": "iduna-pallida",
+"rank": 345,
+"art": {}
+},
+{
+"sci": "Oenanthe isabellina",
+"com": "Isabelline Wheatear",
+"slug": "oenanthe-isabellina",
+"rank": 346,
+"art": {}
+},
+{
+"sci": "Eremomela icteropygialis",
+"com": "Yellow-bellied Eremomela",
+"slug": "eremomela-icteropygialis",
+"rank": 347,
+"art": {}
+},
+{
+"sci": "Pytilia melba",
+"com": "Green-winged Pytilia",
+"slug": "pytilia-melba",
+"rank": 348,
+"art": {}
+},
+{
+"sci": "Fraseria griseigularis",
+"com": "Gray-throated Tit-Flycatcher",
+"slug": "fraseria-griseigularis",
+"rank": 349,
+"art": {}
+},
+{
+"sci": "Hieraaetus pennatus",
+"com": "Booted Eagle",
+"slug": "hieraaetus-pennatus",
+"rank": 350,
+"art": {}
+},
+{
+"sci": "Oriolus auratus",
+"com": "African Golden Oriole",
+"slug": "oriolus-auratus",
+"rank": 351,
+"art": {}
+},
+{
+"sci": "Calidris alba",
+"com": "Sanderling",
+"slug": "calidris-alba",
+"rank": 352,
+"art": {
+"perched": {
+"w": 263,
+"h": 228
+},
+"flight": {
+"w": 541,
+"h": 640
+}
+}
+},
+{
+"sci": "Cisticola lateralis",
+"com": "Whistling Cisticola",
+"slug": "cisticola-lateralis",
+"rank": 353,
+"art": {}
+},
+{
+"sci": "Nicator chloris",
+"com": "Western Nicator",
+"slug": "nicator-chloris",
+"rank": 354,
+"art": {}
+},
+{
+"sci": "Tricholaema diademata",
+"com": "Red-fronted Barbet",
+"slug": "tricholaema-diademata",
+"rank": 355,
+"art": {}
+},
+{
+"sci": "Limosa limosa",
+"com": "Black-tailed Godwit",
+"slug": "limosa-limosa",
+"rank": 356,
+"art": {}
+},
+{
+"sci": "Turnix sylvaticus",
+"com": "Small Buttonquail",
+"slug": "turnix-sylvaticus",
+"rank": 357,
+"art": {}
+},
+{
+"sci": "Tricholaema hirsuta",
+"com": "Hairy-breasted Barbet",
+"slug": "tricholaema-hirsuta",
+"rank": 358,
+"art": {}
+},
+{
+"sci": "Lanius phoenicuroides",
+"com": "Red-tailed Shrike",
+"slug": "lanius-phoenicuroides",
+"rank": 359,
+"art": {}
+},
+{
+"sci": "Merops hirundineus",
+"com": "Swallow-tailed Bee-eater",
+"slug": "merops-hirundineus",
+"rank": 360,
+"art": {}
+},
+{
+"sci": "Apus melba",
+"com": "Alpine Swift",
+"slug": "apus-melba",
+"rank": 361,
+"art": {}
+},
+{
+"sci": "Oriolus oriolus",
+"com": "Eurasian Golden Oriole",
+"slug": "oriolus-oriolus",
+"rank": 362,
+"art": {}
+},
+{
+"sci": "Sylvia atricapilla",
+"com": "Eurasian Blackcap",
+"slug": "sylvia-atricapilla",
+"rank": 363,
+"art": {}
+},
+{
+"sci": "Crex crex",
+"com": "Corn Crake",
+"slug": "crex-crex",
+"rank": 364,
+"art": {}
+},
+{
+"sci": "Cossypha caffra",
+"com": "Cape Robin-Chat",
+"slug": "cossypha-caffra",
+"rank": 365,
+"art": {}
+},
+{
+"sci": "Batis erlangeri",
+"com": "Western Black-headed Batis",
+"slug": "batis-erlangeri",
+"rank": 366,
+"art": {}
+},
+{
+"sci": "Cisticola ayresii",
+"com": "Wing-snapping Cisticola",
+"slug": "cisticola-ayresii",
+"rank": 367,
+"art": {}
+},
+{
+"sci": "Acrocephalus scirpaceus",
+"com": "Eurasian Reed Warbler",
+"slug": "acrocephalus-scirpaceus",
+"rank": 368,
+"art": {}
+},
+{
+"sci": "Clanga pomarina",
+"com": "Lesser Spotted Eagle",
+"slug": "clanga-pomarina",
+"rank": 369,
+"art": {}
+},
+{
+"sci": "Lanius minor",
+"com": "Lesser Gray Shrike",
+"slug": "lanius-minor",
+"rank": 370,
+"art": {}
+},
+{
+"sci": "Buteo oreophilus",
+"com": "Mountain Buzzard",
+"slug": "buteo-oreophilus",
+"rank": 371,
+"art": {}
+},
+{
+"sci": "Stiphrornis erythrothorax",
+"com": "Forest Robin",
+"slug": "stiphrornis-erythrothorax",
+"rank": 372,
+"art": {}
+},
+{
+"sci": "Bradornis microrhynchus",
+"com": "African Gray Flycatcher",
+"slug": "bradornis-microrhynchus",
+"rank": 373,
+"art": {}
+},
+{
+"sci": "Columba larvata",
+"com": "Lemon Dove",
+"slug": "columba-larvata",
+"rank": 374,
+"art": {}
+},
+{
+"sci": "Caprimulgus clarus",
+"com": "Slender-tailed Nightjar",
+"slug": "caprimulgus-clarus",
+"rank": 375,
+"art": {}
+},
+{
+"sci": "Coturnix coturnix",
+"com": "Common Quail",
+"slug": "coturnix-coturnix",
+"rank": 376,
+"art": {}
+},
+{
+"sci": "Phoeniconaias minor",
+"com": "Lesser Flamingo",
+"slug": "phoeniconaias-minor",
+"rank": 377,
+"art": {}
+},
+{
+"sci": "Macrosphenus flavicans",
+"com": "Yellow Longbill",
+"slug": "macrosphenus-flavicans",
+"rank": 378,
+"art": {}
+},
+{
+"sci": "Columba arquatrix",
+"com": "Rameron Pigeon",
+"slug": "columba-arquatrix",
+"rank": 379,
+"art": {}
+},
+{
+"sci": "Campephaga quiscalina",
+"com": "Purple-throated Cuckooshrike",
+"slug": "campephaga-quiscalina",
+"rank": 380,
+"art": {}
+},
+{
+"sci": "Neocossyphus poensis",
+"com": "White-tailed Ant-Thrush",
+"slug": "neocossyphus-poensis",
+"rank": 381,
+"art": {}
+},
+{
+"sci": "Laniarius funebris",
+"com": "Slate-colored Boubou",
+"slug": "laniarius-funebris",
+"rank": 382,
+"art": {}
+},
+{
+"sci": "Pseudonigrita arnaudi",
+"com": "Gray-headed Social-Weaver",
+"slug": "pseudonigrita-arnaudi",
+"rank": 383,
+"art": {}
+},
+{
+"sci": "Melaniparus albiventris",
+"com": "White-bellied Tit",
+"slug": "melaniparus-albiventris",
+"rank": 384,
+"art": {}
+},
+{
+"sci": "Columba unicincta",
+"com": "Afep Pigeon",
+"slug": "columba-unicincta",
+"rank": 385,
+"art": {}
+},
+{
+"sci": "Prionops plumatus",
+"com": "White Helmetshrike",
+"slug": "prionops-plumatus",
+"rank": 386,
+"art": {}
+},
+{
+"sci": "Oenanthe familiaris",
+"com": "Familiar Chat",
+"slug": "oenanthe-familiaris",
+"rank": 387,
+"art": {}
+},
+{
+"sci": "Serinus flavivertex",
+"com": "Yellow-crowned Canary",
+"slug": "serinus-flavivertex",
+"rank": 388,
+"art": {}
+},
+{
+"sci": "Ploceus vitellinus",
+"com": "Vitelline Masked-Weaver",
+"slug": "ploceus-vitellinus",
+"rank": 389,
+"art": {}
+},
+{
+"sci": "Granatina ianthinogaster",
+"com": "Purple Grenadier",
+"slug": "granatina-ianthinogaster",
+"rank": 390,
+"art": {}
+},
+{
+"sci": "Dinemellia dinemelli",
+"com": "White-headed Buffalo-Weaver",
+"slug": "dinemellia-dinemelli",
+"rank": 391,
+"art": {}
+},
+{
+"sci": "Telophorus bocagei",
+"com": "Gray-green Bushshrike",
+"slug": "telophorus-bocagei",
+"rank": 392,
+"art": {}
+},
+{
+"sci": "Caprimulgus fossii",
+"com": "Square-tailed Nightjar",
+"slug": "caprimulgus-fossii",
+"rank": 393,
+"art": {}
+},
+{
+"sci": "Tringa erythropus",
+"com": "Spotted Redshank",
+"slug": "tringa-erythropus",
+"rank": 394,
+"art": {}
+},
+{
+"sci": "Illadopsis albipectus",
+"com": "Scaly-breasted Illadopsis",
+"slug": "illadopsis-albipectus",
+"rank": 395,
+"art": {}
+},
+{
+"sci": "Chroicocephalus ridibundus",
+"com": "Black-headed Gull",
+"slug": "chroicocephalus-ridibundus",
+"rank": 396,
+"art": {}
+},
+{
+"sci": "Caprimulgus nigriscapularis",
+"com": "Black-shouldered Nightjar",
+"slug": "caprimulgus-nigriscapularis",
+"rank": 397,
+"art": {}
+},
+{
+"sci": "Glaucidium perlatum",
+"com": "Pearl-spotted Owlet",
+"slug": "glaucidium-perlatum",
+"rank": 398,
+"art": {}
+},
+{
+"sci": "Chalcomitra amethystina",
+"com": "Amethyst Sunbird",
+"slug": "chalcomitra-amethystina",
+"rank": 399,
+"art": {}
+},
+{
+"sci": "Recurvirostra avosetta",
+"com": "Pied Avocet",
+"slug": "recurvirostra-avosetta",
+"rank": 400,
+"art": {}
+},
+{
+"sci": "Rostratula benghalensis",
+"com": "Greater Painted-Snipe",
+"slug": "rostratula-benghalensis",
+"rank": 401,
+"art": {}
+},
+{
+"sci": "Monticola saxatilis",
+"com": "Rufous-tailed Rock-Thrush",
+"slug": "monticola-saxatilis",
+"rank": 402,
+"art": {}
+},
+{
+"sci": "Curruca communis",
+"com": "Greater Whitethroat",
+"slug": "curruca-communis",
+"rank": 403,
+"art": {}
+},
+{
+"sci": "Alethe castanea",
+"com": "Fire-crested Alethe",
+"slug": "alethe-castanea",
+"rank": 404,
+"art": {}
+},
+{
+"sci": "Eremomela scotops",
+"com": "Greencap Eremomela",
+"slug": "eremomela-scotops",
+"rank": 405,
+"art": {}
+},
+{
+"sci": "Iduna similis",
+"com": "Mountain Yellow-Warbler",
+"slug": "iduna-similis",
+"rank": 406,
+"art": {}
+},
+{
+"sci": "Pogonocichla stellata",
+"com": "White-starred Robin",
+"slug": "pogonocichla-stellata",
+"rank": 407,
+"art": {}
+},
+{
+"sci": "Euplectes franciscanus",
+"com": "Northern Red Bishop",
+"slug": "euplectes-franciscanus",
+"rank": 408,
+"art": {}
+},
+{
+"sci": "Oenanthe pleschanka",
+"com": "Pied Wheatear",
+"slug": "oenanthe-pleschanka",
+"rank": 409,
+"art": {}
+},
+{
+"sci": "Jynx ruficollis",
+"com": "Rufous-necked Wryneck",
+"slug": "jynx-ruficollis",
+"rank": 410,
+"art": {}
+},
+{
+"sci": "Burhinus capensis",
+"com": "Spotted Thick-knee",
+"slug": "burhinus-capensis",
+"rank": 411,
+"art": {}
+},
+{
+"sci": "Motacilla cinerea",
+"com": "Gray Wagtail",
+"slug": "motacilla-cinerea",
+"rank": 412,
+"art": {}
+},
+{
+"sci": "Pholia sharpii",
+"com": "Sharpe's Starling",
+"slug": "pholia-sharpii",
+"rank": 413,
+"art": {}
+},
+{
+"sci": "Crithagra reichenowi",
+"com": "Reichenow's Seedeater",
+"slug": "crithagra-reichenowi",
+"rank": 414,
+"art": {}
+},
+{
+"sci": "Bradypterus cinnamomeus",
+"com": "Cinnamon Bracken-Warbler",
+"slug": "bradypterus-cinnamomeus",
+"rank": 415,
+"art": {}
+},
+{
+"sci": "Bleda syndactylus",
+"com": "Red-tailed Bristlebill",
+"slug": "bleda-syndactylus",
+"rank": 416,
+"art": {}
+},
+{
+"sci": "Motacilla clara",
+"com": "Mountain Wagtail",
+"slug": "motacilla-clara",
+"rank": 417,
+"art": {}
+},
+{
+"sci": "Anthus cervinus",
+"com": "Red-throated Pipit",
+"slug": "anthus-cervinus",
+"rank": 418,
+"art": {}
+},
+{
+"sci": "Numenius phaeopus",
+"com": "Whimbrel",
+"slug": "numenius-phaeopus",
+"rank": 419,
+"art": {}
+},
+{
+"sci": "Pogoniulus pusillus",
+"com": "Red-fronted Tinkerbird",
+"slug": "pogoniulus-pusillus",
+"rank": 420,
+"art": {}
+},
+{
+"sci": "Hippolais icterina",
+"com": "Icterine Warbler",
+"slug": "hippolais-icterina",
+"rank": 421,
+"art": {}
+},
+{
+"sci": "Onychognathus morio",
+"com": "Red-winged Starling",
+"slug": "onychognathus-morio",
+"rank": 422,
+"art": {}
+},
+{
+"sci": "Cercococcyx mechowi",
+"com": "Dusky Long-tailed Cuckoo",
+"slug": "cercococcyx-mechowi",
+"rank": 423,
+"art": {}
+},
+{
+"sci": "Melaniparus leucomelas",
+"com": "White-winged Black-Tit",
+"slug": "melaniparus-leucomelas",
+"rank": 424,
+"art": {}
+},
+{
+"sci": "Corvus capensis",
+"com": "Cape Crow",
+"slug": "corvus-capensis",
+"rank": 425,
+"art": {}
+},
+{
+"sci": "Lamprotornis chloropterus",
+"com": "Lesser Blue-eared Starling",
+"slug": "lamprotornis-chloropterus",
+"rank": 426,
+"art": {}
+},
+{
+"sci": "Arizelocichla nigriceps",
+"com": "Eastern Mountain Greenbul",
+"slug": "arizelocichla-nigriceps",
+"rank": 427,
+"art": {}
+},
+{
+"sci": "Bleda notatus",
+"com": "Lesser Bristlebill",
+"slug": "bleda-notatus",
+"rank": 428,
+"art": {}
+},
+{
+"sci": "Onychognathus walleri",
+"com": "Waller's Starling",
+"slug": "onychognathus-walleri",
+"rank": 429,
+"art": {}
+},
+{
+"sci": "Lamprotornis superbus",
+"com": "Superb Starling",
+"slug": "lamprotornis-superbus",
+"rank": 430,
+"art": {}
+},
+{
+"sci": "Calamonastes simplex",
+"com": "Gray Wren-Warbler",
+"slug": "calamonastes-simplex",
+"rank": 431,
+"art": {}
+},
+{
+"sci": "Trachyphonus darnaudii",
+"com": "D'Arnaud's Barbet",
+"slug": "trachyphonus-darnaudii",
+"rank": 432,
+"art": {}
+},
+{
+"sci": "Crithagra dorsostriata",
+"com": "White-bellied Canary",
+"slug": "crithagra-dorsostriata",
+"rank": 433,
+"art": {}
+},
+{
+"sci": "Numenius arquata",
+"com": "Eurasian Curlew",
+"slug": "numenius-arquata",
+"rank": 434,
+"art": {}
+},
+{
+"sci": "Eurocephalus ruppelli",
+"com": "White-rumped Shrike",
+"slug": "eurocephalus-ruppelli",
+"rank": 435,
+"art": {}
+},
+{
+"sci": "Corythaixoides leucogaster",
+"com": "White-bellied Go-away-bird",
+"slug": "corythaixoides-leucogaster",
+"rank": 436,
+"art": {}
+},
+{
+"sci": "Arenaria interpres",
+"com": "Ruddy Turnstone",
+"slug": "arenaria-interpres",
+"rank": 437,
+"art": {}
+},
+{
+"sci": "Dryoscopus cubla",
+"com": "Black-backed Puffback",
+"slug": "dryoscopus-cubla",
+"rank": 438,
+"art": {}
+},
+{
+"sci": "Otus senegalensis",
+"com": "African Scops-Owl",
+"slug": "otus-senegalensis",
+"rank": 439,
+"art": {}
+},
+{
+"sci": "Campethera cailliautii",
+"com": "Green-backed Woodpecker",
+"slug": "campethera-cailliautii",
+"rank": 440,
+"art": {}
+},
+{
+"sci": "Bucorvus leadbeateri",
+"com": "Southern Ground-Hornbill",
+"slug": "bucorvus-leadbeateri",
+"rank": 441,
+"art": {}
+},
+{
+"sci": "Merops bulocki",
+"com": "Red-throated Bee-eater",
+"slug": "merops-bulocki",
+"rank": 442,
+"art": {}
+},
+{
+"sci": "Bradypterus carpalis",
+"com": "White-winged Swamp Warbler",
+"slug": "bradypterus-carpalis",
+"rank": 443,
+"art": {}
+},
+{
+"sci": "Vanellus armatus",
+"com": "Blacksmith Lapwing",
+"slug": "vanellus-armatus",
+"rank": 444,
+"art": {}
+},
+{
+"sci": "Illadopsis rufipennis",
+"com": "Pale-breasted Illadopsis",
+"slug": "illadopsis-rufipennis",
+"rank": 445,
+"art": {}
+},
+{
+"sci": "Eupodotis senegalensis",
+"com": "White-bellied Bustard",
+"slug": "eupodotis-senegalensis",
+"rank": 446,
+"art": {}
+},
+{
+"sci": "Luscinia megarhynchos",
+"com": "Common Nightingale",
+"slug": "luscinia-megarhynchos",
+"rank": 447,
+"art": {}
+},
+{
+"sci": "Cyanomitra cyanolaema",
+"com": "Blue-throated Brown Sunbird",
+"slug": "cyanomitra-cyanolaema",
+"rank": 448,
+"art": {}
+},
+{
+"sci": "Plocepasser mahali",
+"com": "White-browed Sparrow-Weaver",
+"slug": "plocepasser-mahali",
+"rank": 449,
+"art": {}
+},
+{
+"sci": "Curruca nisoria",
+"com": "Barred Warbler",
+"slug": "curruca-nisoria",
+"rank": 450,
+"art": {}
+},
+{
+"sci": "Caprimulgus poliocephalus",
+"com": "Abyssinian Nightjar",
+"slug": "caprimulgus-poliocephalus",
+"rank": 451,
+"art": {}
+},
+{
+"sci": "Melaenornis pammelaina",
+"com": "Southern Black-Flycatcher",
+"slug": "melaenornis-pammelaina",
+"rank": 452,
+"art": {}
+},
+{
+"sci": "Crithagra atrogularis",
+"com": "Black-throated Canary",
+"slug": "crithagra-atrogularis",
+"rank": 453,
+"art": {}
+},
+{
+"sci": "Caprimulgus climacurus",
+"com": "Long-tailed Nightjar",
+"slug": "caprimulgus-climacurus",
+"rank": 454,
+"art": {}
+},
+{
+"sci": "Galerida cristata",
+"com": "Crested Lark",
+"slug": "galerida-cristata",
+"rank": 455,
+"art": {}
+},
+{
+"sci": "Prinia erythroptera",
+"com": "Red-winged Prinia",
+"slug": "prinia-erythroptera",
+"rank": 456,
+"art": {}
+},
+{
+"sci": "Trachyphonus erythrocephalus",
+"com": "Red-and-yellow Barbet",
+"slug": "trachyphonus-erythrocephalus",
+"rank": 457,
+"art": {}
+},
+{
+"sci": "Sterna hirundo",
+"com": "Common Tern",
+"slug": "sterna-hirundo",
+"rank": 458,
+"art": {
+"perched": {
+"w": 640,
+"h": 323
+},
+"flight": {
+"w": 370,
+"h": 640
+}
+}
+},
+{
+"sci": "Melaniparus funereus",
+"com": "Dusky Tit",
+"slug": "melaniparus-funereus",
+"rank": 459,
+"art": {}
+},
+{
+"sci": "Phylloscopus umbrovirens",
+"com": "Brown Woodland-Warbler",
+"slug": "phylloscopus-umbrovirens",
+"rank": 460,
+"art": {}
+},
+{
+"sci": "Pogoniulus simplex",
+"com": "Green Tinkerbird",
+"slug": "pogoniulus-simplex",
+"rank": 461,
+"art": {}
+},
+{
+"sci": "Onychognathus tenuirostris",
+"com": "Slender-billed Starling",
+"slug": "onychognathus-tenuirostris",
+"rank": 462,
+"art": {}
+},
+{
+"sci": "Phyllastrephus flavostriatus",
+"com": "Yellow-streaked Greenbul",
+"slug": "phyllastrephus-flavostriatus",
+"rank": 463,
+"art": {}
+},
+{
+"sci": "Estrilda troglodytes",
+"com": "Black-rumped Waxbill",
+"slug": "estrilda-troglodytes",
+"rank": 464,
+"art": {}
+},
+{
+"sci": "Sarothrura rufa",
+"com": "Red-chested Flufftail",
+"slug": "sarothrura-rufa",
+"rank": 465,
+"art": {}
+},
+{
+"sci": "Pternistis hildebrandti",
+"com": "Hildebrandt's Francolin",
+"slug": "pternistis-hildebrandti",
+"rank": 466,
+"art": {}
+},
+{
+"sci": "Tauraco hartlaubi",
+"com": "Hartlaub's Turaco",
+"slug": "tauraco-hartlaubi",
+"rank": 467,
+"art": {}
+},
+{
+"sci": "Nectarinia famosa",
+"com": "Malachite Sunbird",
+"slug": "nectarinia-famosa",
+"rank": 468,
+"art": {}
+},
+{
+"sci": "Myrmecocichla aethiops",
+"com": "Northern Anteater-Chat",
+"slug": "myrmecocichla-aethiops",
+"rank": 469,
+"art": {}
+},
+{
+"sci": "Ploceus bicolor",
+"com": "Forest Weaver",
+"slug": "ploceus-bicolor",
+"rank": 470,
+"art": {}
+},
+{
+"sci": "Lanius corvinus",
+"com": "Yellow-billed Shrike",
+"slug": "lanius-corvinus",
+"rank": 471,
+"art": {}
+},
+{
+"sci": "Platysteira peltata",
+"com": "Black-throated Wattle-eye",
+"slug": "platysteira-peltata",
+"rank": 472,
+"art": {}
+},
+{
+"sci": "Campethera abingoni",
+"com": "Golden-tailed Woodpecker",
+"slug": "campethera-abingoni",
+"rank": 473,
+"art": {}
+},
+{
+"sci": "Smithornis capensis",
+"com": "African Broadbill",
+"slug": "smithornis-capensis",
+"rank": 474,
+"art": {}
+},
+{
+"sci": "Centropus senegalensis",
+"com": "Senegal Coucal",
+"slug": "centropus-senegalensis",
+"rank": 475,
+"art": {}
+},
+{
+"sci": "Sylvia abyssinica",
+"com": "African Hill Babbler",
+"slug": "sylvia-abyssinica",
+"rank": 476,
+"art": {}
+},
+{
+"sci": "Plocepasser superciliosus",
+"com": "Chestnut-crowned Sparrow-Weaver",
+"slug": "plocepasser-superciliosus",
+"rank": 477,
+"art": {}
+},
+{
+"sci": "Emberiza cabanisi",
+"com": "Cabanis's Bunting",
+"slug": "emberiza-cabanisi",
+"rank": 478,
+"art": {}
+},
+{
+"sci": "Spatula querquedula",
+"com": "Garganey",
+"slug": "spatula-querquedula",
+"rank": 479,
+"art": {}
+},
+{
+"sci": "Coracias abyssinicus",
+"com": "Abyssinian Roller",
+"slug": "coracias-abyssinicus",
+"rank": 480,
+"art": {}
+},
+{
+"sci": "Apalis porphyrolaema",
+"com": "Chestnut-throated Apalis",
+"slug": "apalis-porphyrolaema",
+"rank": 481,
+"art": {}
+},
+{
+"sci": "Spatula clypeata",
+"com": "Northern Shoveler",
+"slug": "spatula-clypeata",
+"rank": 482,
+"art": {
+"perched": {
+"w": 578,
+"h": 608
+},
+"flight": {
+"w": 640,
+"h": 520
+}
+}
+},
+{
+"sci": "Neocossyphus rufus",
+"com": "Red-tailed Ant-Thrush",
+"slug": "neocossyphus-rufus",
+"rank": 483,
+"art": {}
+},
+{
+"sci": "Podiceps cristatus",
+"com": "Great Crested Grebe",
+"slug": "podiceps-cristatus",
+"rank": 484,
+"art": {}
+},
+{
+"sci": "Merops bullockoides",
+"com": "White-fronted Bee-eater",
+"slug": "merops-bullockoides",
+"rank": 485,
+"art": {}
+},
+{
+"sci": "Streptopelia vinacea",
+"com": "Vinaceous Dove",
+"slug": "streptopelia-vinacea",
+"rank": 486,
+"art": {}
+},
+{
+"sci": "Lanius senator",
+"com": "Woodchat Shrike",
+"slug": "lanius-senator",
+"rank": 487,
+"art": {}
+},
+{
+"sci": "Motacilla alba",
+"com": "White Wagtail",
+"slug": "motacilla-alba",
+"rank": 488,
+"art": {}
+},
+{
+"sci": "Acrocephalus palustris",
+"com": "Marsh Warbler",
+"slug": "acrocephalus-palustris",
+"rank": 489,
+"art": {}
+},
+{
+"sci": "Columba delegorguei",
+"com": "Delegorgue's Pigeon",
+"slug": "columba-delegorguei",
+"rank": 490,
+"art": {}
+},
+{
+"sci": "Trochocercus cyanomelas",
+"com": "African Crested-Flycatcher",
+"slug": "trochocercus-cyanomelas",
+"rank": 491,
+"art": {}
+},
+{
+"sci": "Cinnyris regius",
+"com": "Regal Sunbird",
+"slug": "cinnyris-regius",
+"rank": 492,
+"art": {}
+},
+{
+"sci": "Anthreptes orientalis",
+"com": "Eastern Violet-backed Sunbird",
+"slug": "anthreptes-orientalis",
+"rank": 493,
+"art": {}
+},
+{
+"sci": "Macrosphenus concolor",
+"com": "Gray Longbill",
+"slug": "macrosphenus-concolor",
+"rank": 494,
+"art": {}
+},
+{
+"sci": "Pluvialis squatarola",
+"com": "Black-bellied Plover",
+"slug": "pluvialis-squatarola",
+"rank": 495,
+"art": {
+"perched": {
+"w": 639,
+"h": 640
+},
+"flight": {
+"w": 629,
+"h": 640
+}
+}
+},
+{
+"sci": "Oenanthe pileata",
+"com": "Capped Wheatear",
+"slug": "oenanthe-pileata",
+"rank": 496,
+"art": {}
+},
+{
+"sci": "Aquila nipalensis",
+"com": "Steppe Eagle",
+"slug": "aquila-nipalensis",
+"rank": 497,
+"art": {}
+},
+{
+"sci": "Cisticola hunteri",
+"com": "Hunter's Cisticola",
+"slug": "cisticola-hunteri",
+"rank": 498,
+"art": {}
+},
+{
+"sci": "Gallinago media",
+"com": "Great Snipe",
+"slug": "gallinago-media",
+"rank": 499,
+"art": {}
+},
+{
+"sci": "Oriolus percivali",
+"com": "Black-tailed Oriole",
+"slug": "oriolus-percivali",
+"rank": 500,
+"art": {}
+},
+{
+"sci": "Coracina pectoralis",
+"com": "White-breasted Cuckooshrike",
+"slug": "coracina-pectoralis",
+"rank": 501,
+"art": {}
+},
+{
+"sci": "Phylloscopus budongoensis",
+"com": "Uganda Woodland-Warbler",
+"slug": "phylloscopus-budongoensis",
+"rank": 502,
+"art": {}
+},
+{
+"sci": "Phoenicurus phoenicurus",
+"com": "Common Redstart",
+"slug": "phoenicurus-phoenicurus",
+"rank": 503,
+"art": {}
+},
+{
+"sci": "Mirafra cantillans",
+"com": "Singing Bushlark",
+"slug": "mirafra-cantillans",
+"rank": 504,
+"art": {}
+},
+{
+"sci": "Anas acuta",
+"com": "Northern Pintail",
+"slug": "anas-acuta",
+"rank": 505,
+"art": {
+"perched": {
+"w": 640,
+"h": 418
+},
+"flight": {
+"w": 640,
+"h": 412
+}
+}
+},
+{
+"sci": "Passer rufocinctus",
+"com": "Kenya Rufous Sparrow",
+"slug": "passer-rufocinctus",
+"rank": 506,
+"art": {}
+},
+{
+"sci": "Cisticola aridulus",
+"com": "Desert Cisticola",
+"slug": "cisticola-aridulus",
+"rank": 507,
+"art": {}
+},
+{
+"sci": "Scleroptila levaillantii",
+"com": "Red-winged Francolin",
+"slug": "scleroptila-levaillantii",
+"rank": 508,
+"art": {}
+},
+{
+"sci": "Euplectes afer",
+"com": "Yellow-crowned Bishop",
+"slug": "euplectes-afer",
+"rank": 509,
+"art": {}
+},
+{
+"sci": "Baeopogon indicator",
+"com": "Honeyguide Greenbul",
+"slug": "baeopogon-indicator",
+"rank": 510,
+"art": {}
+},
+{
+"sci": "Illadopsis pyrrhoptera",
+"com": "Mountain Illadopsis",
+"slug": "illadopsis-pyrrhoptera",
+"rank": 511,
+"art": {}
+},
+{
+"sci": "Bubalornis albirostris",
+"com": "White-billed Buffalo-Weaver",
+"slug": "bubalornis-albirostris",
+"rank": 512,
+"art": {}
+},
+{
+"sci": "Ficedula semitorquata",
+"com": "Semicollared Flycatcher",
+"slug": "ficedula-semitorquata",
+"rank": 513,
+"art": {}
+},
+{
+"sci": "Ptilopsis leucotis",
+"com": "Northern White-faced Owl",
+"slug": "ptilopsis-leucotis",
+"rank": 514,
+"art": {}
+},
+{
+"sci": "Lophoceros fasciatus",
+"com": "African Pied Hornbill",
+"slug": "lophoceros-fasciatus",
+"rank": 515,
+"art": {}
+},
+{
+"sci": "Hippolais languida",
+"com": "Upcher's Warbler",
+"slug": "hippolais-languida",
+"rank": 516,
+"art": {}
+},
+{
+"sci": "Psittacula krameri",
+"com": "Rose-ringed Parakeet",
+"slug": "psittacula-krameri",
+"rank": 517,
+"art": {}
+},
+{
+"sci": "Tauraco schalowi",
+"com": "Schalow's Turaco",
+"slug": "tauraco-schalowi",
+"rank": 518,
+"art": {}
+},
+{
+"sci": "Lybius torquatus",
+"com": "Black-collared Barbet",
+"slug": "lybius-torquatus",
+"rank": 519,
+"art": {}
+},
+{
+"sci": "Chlorocichla flaviventris",
+"com": "Yellow-bellied Greenbul",
+"slug": "chlorocichla-flaviventris",
+"rank": 520,
+"art": {}
+},
+{
+"sci": "Ploceus spekei",
+"com": "Speke's Weaver",
+"slug": "ploceus-spekei",
+"rank": 521,
+"art": {}
+},
+{
+"sci": "Bradypterus lopezi",
+"com": "Evergreen-forest Warbler",
+"slug": "bradypterus-lopezi",
+"rank": 522,
+"art": {}
+},
+{
+"sci": "Prinia rufifrons",
+"com": "Red-fronted Prinia",
+"slug": "prinia-rufifrons",
+"rank": 523,
+"art": {}
+},
+{
+"sci": "Phyllastrephus strepitans",
+"com": "Northern Brownbul",
+"slug": "phyllastrephus-strepitans",
+"rank": 524,
+"art": {}
+},
+{
+"sci": "Zosterops anderssoni",
+"com": "Southern Yellow White-eye",
+"slug": "zosterops-anderssoni",
+"rank": 525,
+"art": {}
+},
+{
+"sci": "Cichladusa arquata",
+"com": "Collared Palm-Thrush",
+"slug": "cichladusa-arquata",
+"rank": 526,
+"art": {}
+},
+{
+"sci": "Cisticola aberrans",
+"com": "Rock-loving Cisticola",
+"slug": "cisticola-aberrans",
+"rank": 527,
+"art": {}
+},
+{
+"sci": "Tringa totanus",
+"com": "Common Redshank",
+"slug": "tringa-totanus",
+"rank": 528,
+"art": {}
+},
+{
+"sci": "Cercotrichas galactotes",
+"com": "Rufous-tailed Scrub-Robin",
+"slug": "cercotrichas-galactotes",
+"rank": 529,
+"art": {}
+},
+{
+"sci": "Turdus libonyana",
+"com": "Kurrichane Thrush",
+"slug": "turdus-libonyana",
+"rank": 530,
+"art": {}
+},
+{
+"sci": "Centropus leucogaster",
+"com": "Black-throated Coucal",
+"slug": "centropus-leucogaster",
+"rank": 531,
+"art": {}
+},
+{
+"sci": "Arizelocichla masukuensis",
+"com": "Shelley's Greenbul",
+"slug": "arizelocichla-masukuensis",
+"rank": 532,
+"art": {}
+},
+{
+"sci": "Haematopus ostralegus",
+"com": "Eurasian Oystercatcher",
+"slug": "haematopus-ostralegus",
+"rank": 533,
+"art": {}
+},
+{
+"sci": "Hypargos niveoguttatus",
+"com": "Peters's Twinspot",
+"slug": "hypargos-niveoguttatus",
+"rank": 534,
+"art": {}
+},
+{
+"sci": "Pternistis leucoscepus",
+"com": "Yellow-necked Francolin",
+"slug": "pternistis-leucoscepus",
+"rank": 535,
+"art": {}
+},
+{
+"sci": "Ptilopachus petrosus",
+"com": "Stone Partridge",
+"slug": "ptilopachus-petrosus",
+"rank": 536,
+"art": {}
+},
+{
+"sci": "Pogoniulus leucomystax",
+"com": "Moustached Tinkerbird",
+"slug": "pogoniulus-leucomystax",
+"rank": 537,
+"art": {}
+},
+{
+"sci": "Apaloderma vittatum",
+"com": "Bar-tailed Trogon",
+"slug": "apaloderma-vittatum",
+"rank": 538,
+"art": {}
+},
+{
+"sci": "Otus scops",
+"com": "Eurasian Scops-Owl",
+"slug": "otus-scops",
+"rank": 539,
+"art": {}
+},
+{
+"sci": "Scleroptila shelleyi",
+"com": "Shelley's Francolin",
+"slug": "scleroptila-shelleyi",
+"rank": 540,
+"art": {}
+},
+{
+"sci": "Ixonotus guttatus",
+"com": "Spotted Greenbul",
+"slug": "ixonotus-guttatus",
+"rank": 541,
+"art": {}
+},
+{
+"sci": "Trachyphonus vaillantii",
+"com": "Crested Barbet",
+"slug": "trachyphonus-vaillantii",
+"rank": 542,
+"art": {}
+},
+{
+"sci": "Vanellus melanopterus",
+"com": "Black-winged Lapwing",
+"slug": "vanellus-melanopterus",
+"rank": 543,
+"art": {}
+},
+{
+"sci": "Charadrius alexandrinus",
+"com": "Kentish Plover",
+"slug": "charadrius-alexandrinus",
+"rank": 544,
+"art": {}
+},
+{
+"sci": "Cryptospiza reichenovii",
+"com": "Red-faced Crimsonwing",
+"slug": "cryptospiza-reichenovii",
+"rank": 545,
+"art": {}
+},
+{
+"sci": "Cossypha semirufa",
+"com": "Rüppell's Robin-Chat",
+"slug": "cossypha-semirufa",
+"rank": 546,
+"art": {}
+},
+{
+"sci": "Dicrurus divaricatus",
+"com": "Glossy-backed Drongo",
+"slug": "dicrurus-divaricatus",
+"rank": 547,
+"art": {}
+},
+{
+"sci": "Ficedula albicollis",
+"com": "Collared Flycatcher",
+"slug": "ficedula-albicollis",
+"rank": 548,
+"art": {}
+},
+{
+"sci": "Lagonosticta rhodopareia",
+"com": "Jameson's Firefinch",
+"slug": "lagonosticta-rhodopareia",
+"rank": 549,
+"art": {}
+},
+{
+"sci": "Vidua fischeri",
+"com": "Straw-tailed Whydah",
+"slug": "vidua-fischeri",
+"rank": 550,
+"art": {}
+},
+{
+"sci": "Chloropicus griseocephalus",
+"com": "Olive Woodpecker",
+"slug": "chloropicus-griseocephalus",
+"rank": 551,
+"art": {}
+},
+{
+"sci": "Chloropicus spodocephalus",
+"com": "Mountain Gray Woodpecker",
+"slug": "chloropicus-spodocephalus",
+"rank": 552,
+"art": {}
+},
+{
+"sci": "Poicephalus fuscicollis",
+"com": "Brown-necked Parrot",
+"slug": "poicephalus-fuscicollis",
+"rank": 553,
+"art": {}
+},
+{
+"sci": "Hedydipna platura",
+"com": "Pygmy Sunbird",
+"slug": "hedydipna-platura",
+"rank": 554,
+"art": {}
+},
+{
+"sci": "Charadrius mongolus",
+"com": "Lesser Sand-Plover",
+"slug": "charadrius-mongolus",
+"rank": 555,
+"art": {}
+},
+{
+"sci": "Vidua funerea",
+"com": "Variable Indigobird",
+"slug": "vidua-funerea",
+"rank": 556,
+"art": {}
+},
+{
+"sci": "Psophocichla litsitsirupa",
+"com": "Groundscraper Thrush",
+"slug": "psophocichla-litsitsirupa",
+"rank": 557,
+"art": {}
+},
+{
+"sci": "Elminia albonotata",
+"com": "White-tailed Crested-Flycatcher",
+"slug": "elminia-albonotata",
+"rank": 558,
+"art": {}
+},
+{
+"sci": "Cercococcyx montanus",
+"com": "Barred Long-tailed Cuckoo",
+"slug": "cercococcyx-montanus",
+"rank": 559,
+"art": {}
+},
+{
+"sci": "Calendulauda alopex",
+"com": "Foxy Lark",
+"slug": "calendulauda-alopex",
+"rank": 560,
+"art": {}
+},
+{
+"sci": "Phyllastrephus cerviniventris",
+"com": "Gray-olive Greenbul",
+"slug": "phyllastrephus-cerviniventris",
+"rank": 561,
+"art": {}
+},
+{
+"sci": "Gymnoris pyrgita",
+"com": "Yellow-spotted Bush Sparrow",
+"slug": "gymnoris-pyrgita",
+"rank": 562,
+"art": {}
+},
+{
+"sci": "Geokichla guttata",
+"com": "Spotted Ground-Thrush",
+"slug": "geokichla-guttata",
+"rank": 563,
+"art": {}
+},
+{
+"sci": "Lymnocryptes minimus",
+"com": "Jack Snipe",
+"slug": "lymnocryptes-minimus",
+"rank": 564,
+"art": {}
+},
+{
+"sci": "Anthus lineiventris",
+"com": "Striped Pipit",
+"slug": "anthus-lineiventris",
+"rank": 565,
+"art": {}
+},
+{
+"sci": "Ciconia nigra",
+"com": "Black Stork",
+"slug": "ciconia-nigra",
+"rank": 566,
+"art": {}
+},
+{
+"sci": "Cuculus poliocephalus",
+"com": "Lesser Cuckoo",
+"slug": "cuculus-poliocephalus",
+"rank": 567,
+"art": {}
+},
+{
+"sci": "Halcyon albiventris",
+"com": "Brown-hooded Kingfisher",
+"slug": "halcyon-albiventris",
+"rank": 568,
+"art": {}
+},
+{
+"sci": "Porzana porzana",
+"com": "Spotted Crake",
+"slug": "porzana-porzana",
+"rank": 569,
+"art": {}
+},
+{
+"sci": "Telophorus nigrifrons",
+"com": "Black-fronted Bushshrike",
+"slug": "telophorus-nigrifrons",
+"rank": 570,
+"art": {}
+},
+{
+"sci": "Anthoscopus musculus",
+"com": "Mouse-colored Penduline-Tit",
+"slug": "anthoscopus-musculus",
+"rank": 571,
+"art": {}
+},
+{
+"sci": "Sylvietta rufescens",
+"com": "Cape Crombec",
+"slug": "sylvietta-rufescens",
+"rank": 572,
+"art": {}
+},
+{
+"sci": "Cisticola fulvicapilla",
+"com": "Piping Cisticola",
+"slug": "cisticola-fulvicapilla",
+"rank": 573,
+"art": {}
+},
+{
+"sci": "Prionops retzii",
+"com": "Retz's Helmetshrike",
+"slug": "prionops-retzii",
+"rank": 574,
+"art": {}
+},
+{
+"sci": "Urocolius indicus",
+"com": "Red-faced Mousebird",
+"slug": "urocolius-indicus",
+"rank": 575,
+"art": {}
+},
+{
+"sci": "Cinnyris talatala",
+"com": "White-breasted Sunbird",
+"slug": "cinnyris-talatala",
+"rank": 576,
+"art": {}
+},
+{
+"sci": "Phylloscopus collybita",
+"com": "Common Chiffchaff",
+"slug": "phylloscopus-collybita",
+"rank": 577,
+"art": {}
+},
+{
+"sci": "Myrmecocichla arnotti",
+"com": "Arnot's Chat",
+"slug": "myrmecocichla-arnotti",
+"rank": 578,
+"art": {}
+},
+{
+"sci": "Laniarius fuelleborni",
+"com": "Fülleborn's Boubou",
+"slug": "laniarius-fuelleborni",
+"rank": 579,
+"art": {}
+},
+{
+"sci": "Melaniparus rufiventris",
+"com": "Rufous-bellied Tit",
+"slug": "melaniparus-rufiventris",
+"rank": 580,
+"art": {}
+}
+]
+}

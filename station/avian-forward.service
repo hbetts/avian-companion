@@ -1,0 +1,15 @@
+[Unit]
+Description=Forward BirdNET-Pi detections to the Visitors web app
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=%i
+ExecStart=/usr/bin/python3 /home/%i/avian-forward.py
+Restart=always
+RestartSec=30
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
