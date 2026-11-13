@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { ServiceWorker } from "@/components/ServiceWorker";
+import { Analytics } from "@vercel/analytics/next";
 
 const caveat = localFont({ src: "./fonts/Caveat.ttf", variable: "--font-caveat", display: "swap" });
 
@@ -31,6 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-full flex flex-col">
         {children}
         <ServiceWorker />
+        <Analytics />
       </body>
     </html>
   );
