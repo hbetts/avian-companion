@@ -74,6 +74,10 @@
 "perched": {
 "w": 551,
 "h": 471
+},
+"flight": {
+"w": 611,
+"h": 640
 }
 }
 },
@@ -85,6 +89,10 @@
 "art": {
 "perched": {
 "w": 238,
+"h": 640
+},
+"flight": {
+"w": 599,
 "h": 640
 }
 }
@@ -114,6 +122,10 @@
 "perched": {
 "w": 382,
 "h": 640
+},
+"flight": {
+"w": 373,
+"h": 640
 }
 }
 },
@@ -122,56 +134,128 @@
 "com": "African Pied Wagtail",
 "slug": "motacilla-aguimp",
 "rank": 9,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 573,
+"h": 640
+}
+}
 },
 {
 "sci": "Streptopelia capicola",
 "com": "Ring-necked Dove",
 "slug": "streptopelia-capicola",
 "rank": 10,
-"art": {}
+"art": {
+"perched": {
+"w": 403,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 604
+}
+}
 },
 {
 "sci": "Dicrurus adsimilis",
 "com": "Fork-tailed Drongo",
 "slug": "dicrurus-adsimilis",
 "rank": 11,
-"art": {}
+"art": {
+"perched": {
+"w": 263,
+"h": 640
+},
+"flight": {
+"w": 544,
+"h": 640
+}
+}
 },
 {
 "sci": "Streptopelia semitorquata",
 "com": "Red-eyed Dove",
 "slug": "streptopelia-semitorquata",
 "rank": 12,
-"art": {}
+"art": {
+"perched": {
+"w": 394,
+"h": 640
+},
+"flight": {
+"w": 513,
+"h": 640
+}
+}
 },
 {
 "sci": "Lanius humeralis",
 "com": "Northern Fiscal",
 "slug": "lanius-humeralis",
 "rank": 13,
-"art": {}
+"art": {
+"perched": {
+"w": 484,
+"h": 640
+},
+"flight": {
+"w": 531,
+"h": 559
+}
+}
 },
 {
 "sci": "Camaroptera brachyura",
 "com": "Green-backed Camaroptera",
 "slug": "camaroptera-brachyura",
 "rank": 14,
-"art": {}
+"art": {
+"perched": {
+"w": 503,
+"h": 510
+},
+"flight": {
+"w": 432,
+"h": 640
+}
+}
 },
 {
 "sci": "Lamprotornis purpuroptera",
 "com": "Rüppell's Starling",
 "slug": "lamprotornis-purpuroptera",
 "rank": 15,
-"art": {}
+"art": {
+"perched": {
+"w": 595,
+"h": 507
+},
+"flight": {
+"w": 620,
+"h": 413
+}
+}
 },
 {
 "sci": "Scopus umbretta",
 "com": "Hamerkop",
 "slug": "scopus-umbretta",
 "rank": 16,
-"art": {}
+"art": {
+"perched": {
+"w": 457,
+"h": 540
+},
+"flight": {
+"w": 629,
+"h": 630
+}
+}
 },
 {
 "sci": "Turdus pelios",
@@ -194,63 +278,144 @@
 "com": "Northern Gray-headed Sparrow",
 "slug": "passer-griseus",
 "rank": 18,
-"art": {}
+"art": {
+"perched": {
+"w": 476,
+"h": 640
+},
+"flight": {
+"w": 596,
+"h": 482
+}
+}
 },
 {
 "sci": "Ploceus cucullatus",
 "com": "Village Weaver",
 "slug": "ploceus-cucullatus",
 "rank": 19,
-"art": {}
+"art": {
+"perched": {
+"w": 433,
+"h": 640
+},
+"flight": {
+"w": 449,
+"h": 640
+}
+}
 },
 {
 "sci": "Halcyon senegalensis",
 "com": "Woodland Kingfisher",
 "slug": "halcyon-senegalensis",
 "rank": 20,
-"art": {}
+"art": {
+"perched": {
+"w": 416,
+"h": 640
+},
+"flight": {
+"w": 500,
+"h": 640
+}
+}
 },
 {
 "sci": "Ploceus baglafecht",
 "com": "Baglafecht Weaver",
 "slug": "ploceus-baglafecht",
 "rank": 21,
-"art": {}
+"art": {
+"perched": {
+"w": 432,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 335
+}
+}
 },
 {
 "sci": "Ceryle rudis",
 "com": "Pied Kingfisher",
 "slug": "ceryle-rudis",
 "rank": 22,
-"art": {}
+"art": {
+"perched": {
+"w": 469,
+"h": 640
+},
+"flight": {
+"w": 407,
+"h": 640
+}
+}
 },
 {
 "sci": "Chalcomitra senegalensis",
 "com": "Scarlet-chested Sunbird",
 "slug": "chalcomitra-senegalensis",
 "rank": 23,
-"art": {}
+"art": {
+"perched": {
+"w": 476,
+"h": 402
+},
+"flight": {
+"w": 412,
+"h": 640
+}
+}
 },
 {
 "sci": "Bycanistes subcylindricus",
 "com": "Black-and-white-casqued Hornbill",
 "slug": "bycanistes-subcylindricus",
 "rank": 24,
-"art": {}
+"art": {
+"perched": {
+"w": 415,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 566
+}
+}
 },
 {
 "sci": "Cossypha heuglini",
 "com": "White-browed Robin-Chat",
 "slug": "cossypha-heuglini",
 "rank": 25,
-"art": {}
+"art": {
+"perched": {
+"w": 298,
+"h": 640
+},
+"flight": {
+"w": 506,
+"h": 640
+}
+}
 },
 {
 "sci": "Milvus migrans",
 "com": "Black Kite",
 "slug": "milvus-migrans",
 "rank": 26,
-"art": {}
+"art": {
+"perched": {
+"w": 286,
+"h": 640
+},
+"flight": {
+"w": 385,
+"h": 640
+}
+}
 },
 {
 "sci": "Bubulcus ibis",
@@ -273,77 +438,176 @@
 "com": "Bronze Mannikin",
 "slug": "spermestes-cucullata",
 "rank": 28,
-"art": {}
+"art": {
+"perched": {
+"w": 621,
+"h": 393
+},
+"flight": {
+"w": 574,
+"h": 633
+}
+}
 },
 {
 "sci": "Laniarius erythrogaster",
 "com": "Black-headed Gonolek",
 "slug": "laniarius-erythrogaster",
 "rank": 29,
-"art": {}
+"art": {
+"perched": {
+"w": 431,
+"h": 640
+},
+"flight": {
+"w": 406,
+"h": 640
+}
+}
 },
 {
 "sci": "Terpsiphone viridis",
 "com": "African Paradise-Flycatcher",
 "slug": "terpsiphone-viridis",
 "rank": 30,
-"art": {}
+"art": {
+"perched": {
+"w": 332,
+"h": 640
+},
+"flight": {
+"w": 370,
+"h": 640
+}
+}
 },
 {
 "sci": "Eurystomus glaucurus",
 "com": "Broad-billed Roller",
 "slug": "eurystomus-glaucurus",
 "rank": 31,
-"art": {}
+"art": {
+"perched": {
+"w": 382,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 497
+}
+}
 },
 {
 "sci": "Prinia subflava",
 "com": "Tawny-flanked Prinia",
 "slug": "prinia-subflava",
 "rank": 32,
-"art": {}
+"art": {
+"perched": {
+"w": 381,
+"h": 640
+},
+"flight": {
+"w": 438,
+"h": 582
+}
+}
 },
 {
 "sci": "Turtur afer",
 "com": "Blue-spotted Wood-Dove",
 "slug": "turtur-afer",
 "rank": 33,
-"art": {}
+"art": {
+"perched": {
+"w": 419,
+"h": 640
+},
+"flight": {
+"w": 405,
+"h": 640
+}
+}
 },
 {
 "sci": "Ploceus melanocephalus",
 "com": "Black-headed Weaver",
 "slug": "ploceus-melanocephalus",
 "rank": 34,
-"art": {}
+"art": {
+"perched": {
+"w": 430,
+"h": 640
+},
+"flight": {
+"w": 606,
+"h": 484
+}
+}
 },
 {
 "sci": "Egretta garzetta",
 "com": "Little Egret",
 "slug": "egretta-garzetta",
 "rank": 35,
-"art": {}
+"art": {
+"perched": {
+"w": 360,
+"h": 640
+},
+"flight": {
+"w": 347,
+"h": 640
+}
+}
 },
 {
 "sci": "Cinnyris erythrocercus",
 "com": "Red-chested Sunbird",
 "slug": "cinnyris-erythrocercus",
 "rank": 36,
-"art": {}
+"art": {
+"perched": {
+"w": 428,
+"h": 640
+},
+"flight": {
+"w": 391,
+"h": 640
+}
+}
 },
 {
 "sci": "Crithagra mozambica",
 "com": "Yellow-fronted Canary",
 "slug": "crithagra-mozambica",
 "rank": 37,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 618,
+"h": 538
+}
+}
 },
 {
 "sci": "Lybius bidentatus",
 "com": "Double-toothed Barbet",
 "slug": "lybius-bidentatus",
 "rank": 38,
-"art": {}
+"art": {
+"perched": {
+"w": 345,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 540
+}
+}
 },
 {
 "sci": "Hirundo rustica",
@@ -366,35 +630,80 @@
 "com": "Red-billed Firefinch",
 "slug": "lagonosticta-senegala",
 "rank": 40,
-"art": {}
+"art": {
+"perched": {
+"w": 451,
+"h": 640
+},
+"flight": {
+"w": 438,
+"h": 640
+}
+}
 },
 {
 "sci": "Lophaetus occipitalis",
 "com": "Long-crested Eagle",
 "slug": "lophaetus-occipitalis",
 "rank": 41,
-"art": {}
+"art": {
+"perched": {
+"w": 355,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 605
+}
+}
 },
 {
 "sci": "Vidua macroura",
 "com": "Pin-tailed Whydah",
 "slug": "vidua-macroura",
 "rank": 42,
-"art": {}
+"art": {
+"perched": {
+"w": 259,
+"h": 640
+},
+"flight": {
+"w": 574,
+"h": 640
+}
+}
 },
 {
 "sci": "Platysteira cyanea",
 "com": "Brown-throated Wattle-eye",
 "slug": "platysteira-cyanea",
 "rank": 43,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 625
+}
+}
 },
 {
 "sci": "Corythornis cristatus",
 "com": "Malachite Kingfisher",
 "slug": "corythornis-cristatus",
 "rank": 44,
-"art": {}
+"art": {
+"perched": {
+"w": 387,
+"h": 640
+},
+"flight": {
+"w": 600,
+"h": 640
+}
+}
 },
 {
 "sci": "Corythaeola cristata",
@@ -417,266 +726,608 @@
 "com": "African Green-Pigeon",
 "slug": "treron-calvus",
 "rank": 46,
-"art": {}
+"art": {
+"perched": {
+"w": 550,
+"h": 503
+},
+"flight": {
+"w": 398,
+"h": 640
+}
+}
 },
 {
 "sci": "Actophilornis africanus",
 "com": "African Jacana",
 "slug": "actophilornis-africanus",
 "rank": 47,
-"art": {}
+"art": {
+"perched": {
+"w": 379,
+"h": 640
+},
+"flight": {
+"w": 351,
+"h": 640
+}
+}
 },
 {
 "sci": "Haliaeetus vocifer",
 "com": "African Fish-Eagle",
 "slug": "haliaeetus-vocifer",
 "rank": 48,
-"art": {}
+"art": {
+"perched": {
+"w": 322,
+"h": 640
+},
+"flight": {
+"w": 558,
+"h": 640
+}
+}
 },
 {
 "sci": "Uraeginthus bengalus",
 "com": "Red-cheeked Cordonbleu",
 "slug": "uraeginthus-bengalus",
 "rank": 49,
-"art": {}
+"art": {
+"perched": {
+"w": 465,
+"h": 640
+},
+"flight": {
+"w": 418,
+"h": 640
+}
+}
 },
 {
 "sci": "Lamprotornis splendidus",
 "com": "Splendid Starling",
 "slug": "lamprotornis-splendidus",
 "rank": 50,
-"art": {}
+"art": {
+"perched": {
+"w": 375,
+"h": 640
+},
+"flight": {
+"w": 450,
+"h": 640
+}
+}
 },
 {
 "sci": "Laniarius major",
 "com": "Tropical Boubou",
 "slug": "laniarius-major",
 "rank": 51,
-"art": {}
+"art": {
+"perched": {
+"w": 475,
+"h": 640
+},
+"flight": {
+"w": 615,
+"h": 567
+}
+}
 },
 {
 "sci": "Hirundo angolensis",
 "com": "Angola Swallow",
 "slug": "hirundo-angolensis",
 "rank": 52,
-"art": {}
+"art": {
+"perched": {
+"w": 363,
+"h": 640
+},
+"flight": {
+"w": 429,
+"h": 640
+}
+}
 },
 {
 "sci": "Polyboroides typus",
 "com": "African Harrier-Hawk",
 "slug": "polyboroides-typus",
 "rank": 53,
-"art": {}
+"art": {
+"perched": {
+"w": 315,
+"h": 640
+},
+"flight": {
+"w": 558,
+"h": 640
+}
+}
 },
 {
 "sci": "Kaupifalco monogrammicus",
 "com": "Lizard Buzzard",
 "slug": "kaupifalco-monogrammicus",
 "rank": 54,
-"art": {}
+"art": {
+"perched": {
+"w": 326,
+"h": 640
+},
+"flight": {
+"w": 335,
+"h": 640
+}
+}
 },
 {
 "sci": "Macronyx croceus",
 "com": "Yellow-throated Longclaw",
 "slug": "macronyx-croceus",
 "rank": 55,
-"art": {}
+"art": {
+"perched": {
+"w": 573,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 334
+}
+}
 },
 {
 "sci": "Turtur tympanistria",
 "com": "Tambourine Dove",
 "slug": "turtur-tympanistria",
 "rank": 56,
-"art": {}
+"art": {
+"perched": {
+"w": 388,
+"h": 640
+},
+"flight": {
+"w": 550,
+"h": 579
+}
+}
 },
 {
 "sci": "Streptopelia senegalensis",
 "com": "Laughing Dove",
 "slug": "streptopelia-senegalensis",
 "rank": 57,
-"art": {}
+"art": {
+"perched": {
+"w": 517,
+"h": 640
+},
+"flight": {
+"w": 417,
+"h": 640
+}
+}
 },
 {
 "sci": "Muscicapa aquatica",
 "com": "Swamp Flycatcher",
 "slug": "muscicapa-aquatica",
 "rank": 58,
-"art": {}
+"art": {
+"perched": {
+"w": 430,
+"h": 640
+},
+"flight": {
+"w": 494,
+"h": 467
+}
+}
 },
 {
 "sci": "Elminia longicauda",
 "com": "African Blue Flycatcher",
 "slug": "elminia-longicauda",
 "rank": 59,
-"art": {}
+"art": {
+"perched": {
+"w": 515,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 567
+}
+}
 },
 {
 "sci": "Cecropis abyssinica",
 "com": "Lesser Striped Swallow",
 "slug": "cecropis-abyssinica",
 "rank": 60,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 421
+},
+"flight": {
+"w": 558,
+"h": 640
+}
+}
 },
 {
 "sci": "Numida meleagris",
 "com": "Helmeted Guineafowl",
 "slug": "numida-meleagris",
 "rank": 61,
-"art": {}
+"art": {
+"perched": {
+"w": 442,
+"h": 640
+},
+"flight": {
+"w": 473,
+"h": 640
+}
+}
 },
 {
 "sci": "Pogoniulus bilineatus",
 "com": "Yellow-rumped Tinkerbird",
 "slug": "pogoniulus-bilineatus",
 "rank": 62,
-"art": {}
+"art": {
+"perched": {
+"w": 575,
+"h": 368
+},
+"flight": {
+"w": 459,
+"h": 573
+}
+}
 },
 {
 "sci": "Psittacus erithacus",
 "com": "Gray Parrot",
 "slug": "psittacus-erithacus",
 "rank": 63,
-"art": {}
+"art": {
+"perched": {
+"w": 497,
+"h": 497
+},
+"flight": {
+"w": 458,
+"h": 640
+}
+}
 },
 {
 "sci": "Centropus superciliosus",
 "com": "White-browed Coucal",
 "slug": "centropus-superciliosus",
 "rank": 64,
-"art": {}
+"art": {
+"perched": {
+"w": 392,
+"h": 640
+},
+"flight": {
+"w": 606,
+"h": 533
+}
+}
 },
 {
 "sci": "Poicephalus meyeri",
 "com": "Meyer's Parrot",
 "slug": "poicephalus-meyeri",
 "rank": 65,
-"art": {}
+"art": {
+"perched": {
+"w": 513,
+"h": 640
+},
+"flight": {
+"w": 323,
+"h": 640
+}
+}
 },
 {
 "sci": "Cisticola marginatus",
 "com": "Winding Cisticola",
 "slug": "cisticola-marginatus",
 "rank": 66,
-"art": {}
+"art": {
+"perched": {
+"w": 371,
+"h": 640
+},
+"flight": {
+"w": 516,
+"h": 640
+}
+}
 },
 {
 "sci": "Zapornia flavirostra",
 "com": "Black Crake",
 "slug": "zapornia-flavirostra",
 "rank": 67,
-"art": {}
+"art": {
+"perched": {
+"w": 536,
+"h": 571
+},
+"flight": {
+"w": 543,
+"h": 640
+}
+}
 },
 {
 "sci": "Nectarinia kilimensis",
 "com": "Bronze Sunbird",
 "slug": "nectarinia-kilimensis",
 "rank": 68,
-"art": {}
+"art": {
+"perched": {
+"w": 380,
+"h": 640
+},
+"flight": {
+"w": 374,
+"h": 640
+}
+}
 },
 {
 "sci": "Balearica regulorum",
 "com": "Gray Crowned-Crane",
 "slug": "balearica-regulorum",
 "rank": 69,
-"art": {}
+"art": {
+"perched": {
+"w": 339,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 549
+}
+}
 },
 {
 "sci": "Melaenornis edolioides",
 "com": "Northern Black-Flycatcher",
 "slug": "melaenornis-edolioides",
 "rank": 70,
-"art": {}
+"art": {
+"perched": {
+"w": 330,
+"h": 640
+},
+"flight": {
+"w": 529,
+"h": 640
+}
+}
 },
 {
 "sci": "Musophaga rossae",
 "com": "Ross's Turaco",
 "slug": "musophaga-rossae",
 "rank": 71,
-"art": {}
+"art": {
+"perched": {
+"w": 464,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 580
+}
+}
 },
 {
 "sci": "Cuculus solitarius",
 "com": "Red-chested Cuckoo",
 "slug": "cuculus-solitarius",
 "rank": 72,
-"art": {}
+"art": {
+"perched": {
+"w": 508,
+"h": 584
+},
+"flight": {
+"w": 632,
+"h": 604
+}
+}
 },
 {
 "sci": "Eminia lepida",
 "com": "Gray-capped Warbler",
 "slug": "eminia-lepida",
 "rank": 73,
-"art": {}
+"art": {
+"perched": {
+"w": 402,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 452
+}
+}
 },
 {
 "sci": "Hedydipna collaris",
 "com": "Collared Sunbird",
 "slug": "hedydipna-collaris",
 "rank": 74,
-"art": {}
+"art": {
+"perched": {
+"w": 472,
+"h": 640
+},
+"flight": {
+"w": 600,
+"h": 640
+}
+}
 },
 {
 "sci": "Actitis hypoleucos",
 "com": "Common Sandpiper",
 "slug": "actitis-hypoleucos",
 "rank": 75,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 496
+},
+"flight": {
+"w": 621,
+"h": 640
+}
+}
 },
 {
 "sci": "Myrmecocichla nigra",
 "com": "Sooty Chat",
 "slug": "myrmecocichla-nigra",
 "rank": 76,
-"art": {}
+"art": {
+"perched": {
+"w": 456,
+"h": 640
+},
+"flight": {
+"w": 500,
+"h": 640
+}
+}
 },
 {
 "sci": "Apus affinis",
 "com": "Little Swift",
 "slug": "apus-affinis",
 "rank": 77,
-"art": {}
+"art": {
+"perched": {
+"w": 586,
+"h": 313
+},
+"flight": {
+"w": 369,
+"h": 640
+}
+}
 },
 {
 "sci": "Merops albicollis",
 "com": "White-throated Bee-eater",
 "slug": "merops-albicollis",
 "rank": 78,
-"art": {}
+"art": {
+"perched": {
+"w": 351,
+"h": 640
+},
+"flight": {
+"w": 498,
+"h": 640
+}
+}
 },
 {
 "sci": "Cypsiurus parvus",
 "com": "African Palm-Swift",
 "slug": "cypsiurus-parvus",
 "rank": 79,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 335,
+"h": 640
+}
+}
 },
 {
 "sci": "Chrysococcyx klaas",
 "com": "Klaas's Cuckoo",
 "slug": "chrysococcyx-klaas",
 "rank": 80,
-"art": {}
+"art": {
+"perched": {
+"w": 506,
+"h": 640
+},
+"flight": {
+"w": 496,
+"h": 640
+}
+}
 },
 {
 "sci": "Columba guinea",
 "com": "Speckled Pigeon",
 "slug": "columba-guinea",
 "rank": 81,
-"art": {}
+"art": {
+"perched": {
+"w": 563,
+"h": 449
+},
+"flight": {
+"w": 635,
+"h": 530
+}
+}
 },
 {
 "sci": "Lophoceros alboterminatus",
 "com": "Crowned Hornbill",
 "slug": "lophoceros-alboterminatus",
 "rank": 82,
-"art": {}
+"art": {
+"perched": {
+"w": 583,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 557
+}
+}
 },
 {
 "sci": "Buphagus africanus",
 "com": "Yellow-billed Oxpecker",
 "slug": "buphagus-africanus",
 "rank": 83,
-"art": {}
+"art": {
+"perched": {
+"w": 338,
+"h": 640
+},
+"flight": {
+"w": 491,
+"h": 640
+}
+}
 },
 {
 "sci": "Ardea alba",
@@ -699,434 +1350,992 @@
 "com": "Little Greenbul",
 "slug": "eurillas-virens",
 "rank": 85,
-"art": {}
+"art": {
+"perched": {
+"w": 468,
+"h": 636
+},
+"flight": {
+"w": 407,
+"h": 640
+}
+}
 },
 {
 "sci": "Ardea cinerea",
 "com": "Gray Heron",
 "slug": "ardea-cinerea",
 "rank": 86,
-"art": {}
+"art": {
+"perched": {
+"w": 339,
+"h": 640
+},
+"flight": {
+"w": 504,
+"h": 640
+}
+}
 },
 {
 "sci": "Anas undulata",
 "com": "Yellow-billed Duck",
 "slug": "anas-undulata",
 "rank": 87,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 607
+},
+"flight": {
+"w": 557,
+"h": 640
+}
+}
 },
 {
 "sci": "Muscicapa adusta",
 "com": "African Dusky Flycatcher",
 "slug": "muscicapa-adusta",
 "rank": 88,
-"art": {}
+"art": {
+"perched": {
+"w": 468,
+"h": 640
+},
+"flight": {
+"w": 616,
+"h": 593
+}
+}
 },
 {
 "sci": "Vanellus senegallus",
 "com": "Wattled Lapwing",
 "slug": "vanellus-senegallus",
 "rank": 89,
-"art": {}
+"art": {
+"perched": {
+"w": 557,
+"h": 640
+},
+"flight": {
+"w": 396,
+"h": 640
+}
+}
 },
 {
 "sci": "Nigrita canicapillus",
 "com": "Gray-headed Nigrita",
 "slug": "nigrita-canicapillus",
 "rank": 90,
-"art": {}
+"art": {
+"perched": {
+"w": 438,
+"h": 640
+},
+"flight": {
+"w": 475,
+"h": 640
+}
+}
 },
 {
 "sci": "Ploceus ocularis",
 "com": "Spectacled Weaver",
 "slug": "ploceus-ocularis",
 "rank": 91,
-"art": {}
+"art": {
+"perched": {
+"w": 451,
+"h": 640
+},
+"flight": {
+"w": 335,
+"h": 640
+}
+}
 },
 {
 "sci": "Ardeola ralloides",
 "com": "Squacco Heron",
 "slug": "ardeola-ralloides",
 "rank": 92,
-"art": {}
+"art": {
+"perched": {
+"w": 564,
+"h": 612
+},
+"flight": {
+"w": 474,
+"h": 640
+}
+}
 },
 {
 "sci": "Cinnyris chloropygius",
 "com": "Olive-bellied Sunbird",
 "slug": "cinnyris-chloropygius",
 "rank": 93,
-"art": {}
+"art": {
+"perched": {
+"w": 405,
+"h": 640
+},
+"flight": {
+"w": 394,
+"h": 640
+}
+}
 },
 {
 "sci": "Atimastillas flavicollis",
 "com": "Yellow-throated Greenbul",
 "slug": "atimastillas-flavicollis",
 "rank": 94,
-"art": {}
+"art": {
+"perched": {
+"w": 444,
+"h": 640
+},
+"flight": {
+"w": 614,
+"h": 592
+}
+}
 },
 {
 "sci": "Lophoceros nasutus",
 "com": "African Gray Hornbill",
 "slug": "lophoceros-nasutus",
 "rank": 95,
-"art": {}
+"art": {
+"perched": {
+"w": 324,
+"h": 640
+},
+"flight": {
+"w": 583,
+"h": 640
+}
+}
 },
 {
 "sci": "Motacilla flava",
 "com": "Western Yellow Wagtail",
 "slug": "motacilla-flava",
 "rank": 96,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 370
+},
+"flight": {
+"w": 568,
+"h": 509
+}
+}
 },
 {
 "sci": "Cisticola erythrops",
 "com": "Red-faced Cisticola",
 "slug": "cisticola-erythrops",
 "rank": 97,
-"art": {}
+"art": {
+"perched": {
+"w": 559,
+"h": 533
+},
+"flight": {
+"w": 430,
+"h": 640
+}
+}
 },
 {
 "sci": "Halcyon chelicuti",
 "com": "Striped Kingfisher",
 "slug": "halcyon-chelicuti",
 "rank": 98,
-"art": {}
+"art": {
+"perched": {
+"w": 392,
+"h": 640
+},
+"flight": {
+"w": 519,
+"h": 640
+}
+}
 },
 {
 "sci": "Mirafra africana",
 "com": "Rufous-naped Lark",
 "slug": "mirafra-africana",
 "rank": 99,
-"art": {}
+"art": {
+"perched": {
+"w": 478,
+"h": 640
+},
+"flight": {
+"w": 595,
+"h": 640
+}
+}
 },
 {
 "sci": "Burhinus vermiculatus",
 "com": "Water Thick-knee",
 "slug": "burhinus-vermiculatus",
 "rank": 100,
-"art": {}
+"art": {
+"perched": {
+"w": 427,
+"h": 640
+},
+"flight": {
+"w": 497,
+"h": 640
+}
+}
 },
 {
 "sci": "Ploceus nigerrimus",
 "com": "Vieillot's Weaver",
 "slug": "ploceus-nigerrimus",
 "rank": 101,
-"art": {}
+"art": {
+"perched": {
+"w": 603,
+"h": 550
+},
+"flight": {
+"w": 640,
+"h": 554
+}
+}
 },
 {
 "sci": "Hirundo smithii",
 "com": "Wire-tailed Swallow",
 "slug": "hirundo-smithii",
 "rank": 102,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 629,
+"h": 640
+}
+}
 },
 {
 "sci": "Psalidoprocne pristoptera",
 "com": "Black Sawwing",
 "slug": "psalidoprocne-pristoptera",
 "rank": 103,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 335,
+"h": 640
+}
+}
 },
 {
 "sci": "Tringa glareola",
 "com": "Wood Sandpiper",
 "slug": "tringa-glareola",
 "rank": 104,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 614
+},
+"flight": {
+"w": 425,
+"h": 640
+}
+}
 },
 {
 "sci": "Cyanomitra verticalis",
 "com": "Green-headed Sunbird",
 "slug": "cyanomitra-verticalis",
 "rank": 105,
-"art": {}
+"art": {
+"perched": {
+"w": 615,
+"h": 490
+},
+"flight": {
+"w": 566,
+"h": 640
+}
+}
 },
 {
 "sci": "Estrilda nonnula",
 "com": "Black-crowned Waxbill",
 "slug": "estrilda-nonnula",
 "rank": 106,
-"art": {}
+"art": {
+"perched": {
+"w": 463,
+"h": 640
+},
+"flight": {
+"w": 427,
+"h": 640
+}
+}
 },
 {
 "sci": "Vanellus spinosus",
 "com": "Spur-winged Lapwing",
 "slug": "vanellus-spinosus",
 "rank": 107,
-"art": {}
+"art": {
+"perched": {
+"w": 509,
+"h": 640
+},
+"flight": {
+"w": 369,
+"h": 640
+}
+}
 },
 {
 "sci": "Ardea purpurea",
 "com": "Purple Heron",
 "slug": "ardea-purpurea",
 "rank": 108,
-"art": {}
+"art": {
+"perched": {
+"w": 356,
+"h": 640
+},
+"flight": {
+"w": 633,
+"h": 541
+}
+}
 },
 {
 "sci": "Pternistis afer",
 "com": "Red-necked Francolin",
 "slug": "pternistis-afer",
 "rank": 109,
-"art": {}
+"art": {
+"perched": {
+"w": 506,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 623
+}
+}
 },
 {
 "sci": "Estrilda astrild",
 "com": "Common Waxbill",
 "slug": "estrilda-astrild",
 "rank": 110,
-"art": {}
+"art": {
+"perched": {
+"w": 557,
+"h": 516
+},
+"flight": {
+"w": 510,
+"h": 561
+}
+}
 },
 {
 "sci": "Turdoides sharpei",
 "com": "Black-lored Babbler",
 "slug": "turdoides-sharpei",
 "rank": 111,
-"art": {}
+"art": {
+"perched": {
+"w": 633,
+"h": 482
+},
+"flight": {
+"w": 560,
+"h": 560
+}
+}
 },
 {
 "sci": "Dryoscopus gambensis",
 "com": "Northern Puffback",
 "slug": "dryoscopus-gambensis",
 "rank": 112,
-"art": {}
+"art": {
+"perched": {
+"w": 640,
+"h": 314
+},
+"flight": {
+"w": 562,
+"h": 559
+}
+}
 },
 {
 "sci": "Ploceus nigricollis",
 "com": "Black-necked Weaver",
 "slug": "ploceus-nigricollis",
 "rank": 113,
-"art": {}
+"art": {
+"perched": {
+"w": 378,
+"h": 640
+},
+"flight": {
+"w": 601,
+"h": 475
+}
+}
 },
 {
 "sci": "Merops pusillus",
 "com": "Little Bee-eater",
 "slug": "merops-pusillus",
 "rank": 114,
-"art": {}
+"art": {
+"perched": {
+"w": 537,
+"h": 640
+},
+"flight": {
+"w": 403,
+"h": 640
+}
+}
 },
 {
 "sci": "Eurillas latirostris",
 "com": "Yellow-whiskered Greenbul",
 "slug": "eurillas-latirostris",
 "rank": 115,
-"art": {}
+"art": {
+"perched": {
+"w": 421,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 499
+}
+}
 },
 {
 "sci": "Chrysococcyx cupreus",
 "com": "African Emerald Cuckoo",
 "slug": "chrysococcyx-cupreus",
 "rank": 116,
-"art": {}
+"art": {
+"perched": {
+"w": 408,
+"h": 640
+},
+"flight": {
+"w": 426,
+"h": 640
+}
+}
 },
 {
 "sci": "Chrysococcyx caprius",
 "com": "Dideric Cuckoo",
 "slug": "chrysococcyx-caprius",
 "rank": 117,
-"art": {}
+"art": {
+"perched": {
+"w": 616,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 508
+}
+}
 },
 {
 "sci": "Cinnyris mariquensis",
 "com": "Mariqua Sunbird",
 "slug": "cinnyris-mariquensis",
 "rank": 118,
-"art": {}
+"art": {
+"perched": {
+"w": 628,
+"h": 554
+},
+"flight": {
+"w": 449,
+"h": 640
+}
+}
 },
 {
 "sci": "Phalacrocorax carbo",
 "com": "Great Cormorant",
 "slug": "phalacrocorax-carbo",
 "rank": 119,
-"art": {}
+"art": {
+"perched": {
+"w": 432,
+"h": 640
+},
+"flight": {
+"w": 413,
+"h": 640
+}
+}
 },
 {
 "sci": "Tricholaema lacrymosa",
 "com": "Spot-flanked Barbet",
 "slug": "tricholaema-lacrymosa",
 "rank": 120,
-"art": {}
+"art": {
+"perched": {
+"w": 443,
+"h": 640
+},
+"flight": {
+"w": 629,
+"h": 548
+}
+}
 },
 {
 "sci": "Lamprotornis chalybaeus",
 "com": "Greater Blue-eared Starling",
 "slug": "lamprotornis-chalybaeus",
 "rank": 121,
-"art": {}
+"art": {
+"perched": {
+"w": 437,
+"h": 640
+},
+"flight": {
+"w": 552,
+"h": 553
+}
+}
 },
 {
 "sci": "Cinnyris cupreus",
 "com": "Copper Sunbird",
 "slug": "cinnyris-cupreus",
 "rank": 122,
-"art": {}
+"art": {
+"perched": {
+"w": 418,
+"h": 640
+},
+"flight": {
+"w": 417,
+"h": 640
+}
+}
 },
 {
 "sci": "Crithagra sulphurata",
 "com": "Brimstone Canary",
 "slug": "crithagra-sulphurata",
 "rank": 123,
-"art": {}
+"art": {
+"perched": {
+"w": 553,
+"h": 562
+},
+"flight": {
+"w": 565,
+"h": 640
+}
+}
 },
 {
 "sci": "Cinnyricinclus leucogaster",
 "com": "Violet-backed Starling",
 "slug": "cinnyricinclus-leucogaster",
 "rank": 124,
-"art": {}
+"art": {
+"perched": {
+"w": 493,
+"h": 616
+},
+"flight": {
+"w": 640,
+"h": 594
+}
+}
 },
 {
 "sci": "Coracias caudatus",
 "com": "Lilac-breasted Roller",
 "slug": "coracias-caudatus",
 "rank": 125,
-"art": {}
+"art": {
+"perched": {
+"w": 446,
+"h": 640
+},
+"flight": {
+"w": 629,
+"h": 526
+}
+}
 },
 {
 "sci": "Amblyospiza albifrons",
 "com": "Grosbeak Weaver",
 "slug": "amblyospiza-albifrons",
 "rank": 126,
-"art": {}
+"art": {
+"perched": {
+"w": 380,
+"h": 640
+},
+"flight": {
+"w": 474,
+"h": 640
+}
+}
 },
 {
 "sci": "Cecropis daurica",
 "com": "Red-rumped Swallow",
 "slug": "cecropis-daurica",
 "rank": 127,
-"art": {}
+"art": {
+"perched": {
+"w": 488,
+"h": 640
+},
+"flight": {
+"w": 497,
+"h": 567
+}
+}
 },
 {
 "sci": "Ploceus jacksoni",
 "com": "Golden-backed Weaver",
 "slug": "ploceus-jacksoni",
 "rank": 128,
-"art": {}
+"art": {
+"perched": {
+"w": 568,
+"h": 553
+},
+"flight": {
+"w": 640,
+"h": 443
+}
+}
 },
 {
 "sci": "Terpsiphone rufiventer",
 "com": "Black-headed Paradise-Flycatcher",
 "slug": "terpsiphone-rufiventer",
 "rank": 129,
-"art": {}
+"art": {
+"perched": {
+"w": 311,
+"h": 640
+},
+"flight": {
+"w": 513,
+"h": 640
+}
+}
 },
 {
 "sci": "Centropus monachus",
 "com": "Blue-headed Coucal",
 "slug": "centropus-monachus",
 "rank": 130,
-"art": {}
+"art": {
+"perched": {
+"w": 347,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 495
+}
+}
 },
 {
 "sci": "Pogoniulus chrysoconus",
 "com": "Yellow-fronted Tinkerbird",
 "slug": "pogoniulus-chrysoconus",
 "rank": 131,
-"art": {}
+"art": {
+"perched": {
+"w": 387,
+"h": 640
+},
+"flight": {
+"w": 602,
+"h": 451
+}
+}
 },
 {
 "sci": "Merops apiaster",
 "com": "European Bee-eater",
 "slug": "merops-apiaster",
 "rank": 132,
-"art": {}
+"art": {
+"perched": {
+"w": 500,
+"h": 640
+},
+"flight": {
+"w": 324,
+"h": 640
+}
+}
 },
 {
 "sci": "Apus caffer",
 "com": "White-rumped Swift",
 "slug": "apus-caffer",
 "rank": 133,
-"art": {}
+"art": {
+"perched": {
+"w": 269,
+"h": 640
+},
+"flight": {
+"w": 443,
+"h": 640
+}
+}
 },
 {
 "sci": "Elanus caeruleus",
 "com": "Black-winged Kite",
 "slug": "elanus-caeruleus",
 "rank": 134,
-"art": {}
+"art": {
+"perched": {
+"w": 359,
+"h": 640
+},
+"flight": {
+"w": 452,
+"h": 640
+}
+}
 },
 {
 "sci": "Buteo augur",
 "com": "Augur Buzzard",
 "slug": "buteo-augur",
 "rank": 135,
-"art": {}
+"art": {
+"perched": {
+"w": 359,
+"h": 640
+},
+"flight": {
+"w": 356,
+"h": 640
+}
+}
 },
 {
 "sci": "Sarothrura pulchra",
 "com": "White-spotted Flufftail",
 "slug": "sarothrura-pulchra",
 "rank": 136,
-"art": {}
+"art": {
+"perched": {
+"w": 469,
+"h": 450
+},
+"flight": {
+"w": 446,
+"h": 640
+}
+}
 },
 {
 "sci": "Anthus cinnamomeus",
 "com": "African Pipit",
 "slug": "anthus-cinnamomeus",
 "rank": 137,
-"art": {}
+"art": {
+"perched": {
+"w": 485,
+"h": 640
+},
+"flight": {
+"w": 640,
+"h": 520
+}
+}
 },
 {
 "sci": "Halcyon leucocephala",
 "com": "Gray-headed Kingfisher",
 "slug": "halcyon-leucocephala",
 "rank": 138,
-"art": {}
+"art": {
+"perched": {
+"w": 530,
+"h": 515
+},
+"flight": {
+"w": 620,
+"h": 530
+}
+}
 },
 {
 "sci": "Anthus leucophrys",
 "com": "Plain-backed Pipit",
 "slug": "anthus-leucophrys",
 "rank": 139,
-"art": {}
+"art": {
+"perched": {
+"w": 481,
+"h": 640
+},
+"flight": {
+"w": 435,
+"h": 640
+}
+}
 },
 {
 "sci": "Vidua chalybeata",
 "com": "Village Indigobird",
 "slug": "vidua-chalybeata",
 "rank": 140,
-"art": {}
+"art": {
+"perched": {
+"w": 335,
+"h": 640
+},
+"flight": {
+"w": 629,
+"h": 504
+}
+}
 },
 {
 "sci": "Pogoniulus subsulphureus",
 "com": "Yellow-throated Tinkerbird",
 "slug": "pogoniulus-subsulphureus",
 "rank": 141,
-"art": {}
+"art": {
+"perched": {
+"w": 394,
+"h": 640
+},
+"flight": {
+"w": 540,
+"h": 507
+}
+}
 },
 {
 "sci": "Pogoniulus scolopaceus",
 "com": "Speckled Tinkerbird",
 "slug": "pogoniulus-scolopaceus",
 "rank": 142,
-"art": {}
+"art": {
+"perched": {
+"w": 537,
+"h": 534
+},
+"flight": {
+"w": 515,
+"h": 567
+}
+}
 },
 {
 "sci": "Chlidonias leucopterus",
 "com": "White-winged Tern",
 "slug": "chlidonias-leucopterus",
 "rank": 143,
-"art": {}
+"art": {
+"perched": {
+"w": 510,
+"h": 640
+},
+"flight": {
+"w": 469,
+"h": 640
+}
+}
 },
 {
 "sci": "Phylloscopus trochilus",
 "com": "Willow Warbler",
 "slug": "phylloscopus-trochilus",
 "rank": 144,
-"art": {}
+"art": {
+"perched": {
+"w": 491,
+"h": 401
+},
+"flight": {
+"w": 536,
+"h": 598
+}
+}
 },
 {
 "sci": "Oriolus brachyrynchus",
 "com": "Western Black-headed Oriole",
 "slug": "oriolus-brachyrynchus",
 "rank": 145,
-"art": {}
+"art": {
+"perched": {
+"w": 389,
+"h": 640
+},
+"flight": {
+"w": 639,
+"h": 590
+}
+}
 },
 {
 "sci": "Cyanomitra olivacea",
 "com": "Olive Sunbird",
 "slug": "cyanomitra-olivacea",
 "rank": 146,
-"art": {}
+"art": {
+"perched": {
+"w": 615,
+"h": 442
+},
+"flight": {
+"w": 577,
+"h": 605
+}
+}
 },
 {
 "sci": "Riparia riparia",
@@ -1149,35 +2358,76 @@
 "com": "Black-crowned Tchagra",
 "slug": "tchagra-senegalus",
 "rank": 148,
-"art": {}
+"art": {
+"perched": {
+"w": 440,
+"h": 640
+},
+"flight": {
+"w": 317,
+"h": 640
+}
+}
 },
 {
 "sci": "Butorides striata",
 "com": "Striated Heron",
 "slug": "butorides-striata",
 "rank": 149,
-"art": {}
+"art": {
+"perched": {
+"w": 357,
+"h": 640
+},
+"flight": {
+"w": 560,
+"h": 497
+}
+}
 },
 {
 "sci": "Tchagra australis",
 "com": "Brown-crowned Tchagra",
 "slug": "tchagra-australis",
 "rank": 150,
-"art": {}
+"art": {
+"perched": {
+"w": 577,
+"h": 460
+},
+"flight": {
+"w": 451,
+"h": 640
+}
+}
 },
 {
 "sci": "Merops oreobates",
 "com": "Cinnamon-chested Bee-eater",
 "slug": "merops-oreobates",
 "rank": 151,
-"art": {}
+"art": {
+"perched": {
+"w": 425,
+"h": 640
+},
+"flight": {
+"w": 435,
+"h": 640
+}
+}
 },
 {
 "sci": "Turdoides jardineii",
 "com": "Arrow-marked Babbler",
 "slug": "turdoides-jardineii",
 "rank": 152,
-"art": {}
+"art": {
+"perched": {
+"w": 449,
+"h": 640
+}
+}
 },
 {
 "sci": "Batis molitor",

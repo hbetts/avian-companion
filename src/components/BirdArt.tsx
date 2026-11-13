@@ -37,10 +37,10 @@ export function BirdArt({
             width: "86%",
             maxHeight: "100%",
             aspectRatio: "1",
-            background: "var(--paper-3)",
-            color: "var(--ink-soft)",
+            background: "#e9e1cc",
+            color: "#8a7f70",
             fontSize: "clamp(18px, 40%, 64px)",
-            boxShadow: "inset 0 0 0 1px var(--hairline)",
+            boxShadow: "inset 0 0 0 1px rgba(26,22,18,0.08)",
           }}
         >
           {initials}
