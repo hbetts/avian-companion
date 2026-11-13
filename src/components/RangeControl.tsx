@@ -30,7 +30,7 @@ export function RangeControl({ value, onChange }: { value: Range; onChange: (r: 
             onPointerDown={() => onChange(r)}
             onClick={() => onChange(r)}
             whileTap={{ scale: 0.96 }}
-            className="relative z-10 px-3.5 py-1.5 text-sm font-medium rounded-full select-none"
+            className="relative z-10 px-2.5 sm:px-3.5 py-1.5 text-[13px] sm:text-sm font-medium rounded-full select-none whitespace-nowrap"
             style={{ color: active ? "var(--ink)" : "var(--ink-2)" }}
           >
             {active && (

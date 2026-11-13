@@ -1,6 +1,7 @@
 import { getJSON, putJSON, listKeys, deleteKeys, clearMemo } from "./store";
 import type {
   DayFile,
+  Rhythm,
   Detection,
   DetectionsResponse,
   IndexFile,
@@ -138,10 +139,35 @@ function toSummary(sci: string, a: Acc): SpeciesSummary {
   };
 }
 
+const BUCKETS = 48;
+
+/** Minutes since midnight at the station. */
+function stationMinute(now: Date): number {
+  const parts = new Intl.DateTimeFormat("en-US", { timeZone: STATION_TZ, hourCycle: "h23", hour: "2-digit", minute: "2-digit" }).formatToParts(now);
+  const get = (t: string) => Number(parts.find((p) => p.type === t)?.value) || 0;
+  return get("hour") * 60 + get("minute");
+}
+
+const bucketOf = (t: string) => Math.min(BUCKETS - 1, Math.floor(((Number(t.slice(0, 2)) || 0) * 60 + (Number(t.slice(3, 5)) || 0)) / (1440 / BUCKETS)));
+
+export async function rhythmFor(now = new Date()): Promise<Rhythm> {
+  const today = dayKey(now);
+  const dates = lastDays(8, today);
+  const files = await loadDays(dates);
+  const todayB = new Array(BUCKETS).fill(0);
+  const weekB = new Array(BUCKETS).fill(0);
+  for (const f of files) {
+    const target = f.date === today ? todayB : weekB;
+    for (const d of f.detections) target[bucketOf(d.t)] += 1;
+  }
+  return { today: todayB, week: weekB.map((n) => n / 7), nowMinute: stationMinute(now), buckets: BUCKETS };
+}
+
 export async function detectionsFor(range: Range): Promise<DetectionsResponse> {
   const now = new Date();
   const today = dayKey(now);
   const index = await loadIndex();
+  const rhythm = await rhythmFor(now);
   const acc = new Map<string, Acc>();
 
   if (range === "today" || range === "24h" || range === "week") {
@@ -194,6 +220,7 @@ export async function detectionsFor(range: Range): Promise<DetectionsResponse> {
   const lastHeard = species.reduce<string | null>((m, s) => (s.last && (!m || s.last > m) ? s.last : m), null);
   return {
     range,
+    rhythm,
     now: now.toISOString(),
     tz: STATION_TZ,
     demo: !!index.demo,
@@ -252,6 +279,7 @@ export async function statsFor(): Promise<StatsResponse> {
     },
     busiestHour: busiest,
     hours,
+    rhythm: await rhythmFor(now),
     days,
     topWeek: [...topMap.entries()]
       .sort((a, b) => b[1].n - a[1].n)
@@ -291,6 +319,10 @@ export async function speciesDetail(slug: string): Promise<SpeciesDetail | null>
   }
   clips.sort((a, b) => b.at.localeCompare(a.at));
   const s = index.species[sci];
+  const daysTotal = Object.keys(index.days).length;
+  const daysHeard = Object.values(index.daily).filter((per) => (per[sci] ?? 0) > 0).length;
+  const share = daysTotal ? daysHeard / daysTotal : 0;
+  const rarity = share >= 0.5 ? "common" : share >= 0.2 ? "regular" : share >= 0.05 ? "occasional" : "rare";
   const toIso = (stamp: string) => {
     const [d, t] = stamp.split(" ");
     return new Date(localToMs(d, t)).toISOString();
@@ -309,5 +341,9 @@ export async function speciesDetail(slug: string): Promise<SpeciesDetail | null>
     hours,
     days: lastDays(30, today).map((date) => ({ date, n: index.daily[date]?.[sci] ?? 0 })),
     clips: clips.slice(0, 12),
+    daysHeard,
+    daysTotal,
+    rarity,
+    ...(index.station ? { station: index.station } : {}),
   };
 }

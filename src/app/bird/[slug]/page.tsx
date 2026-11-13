@@ -16,13 +16,13 @@ export default async function BirdPage({ params }: { params: Promise<{ slug: str
   return (
     <>
       <Header />
-      <main className="relative z-10 mx-auto w-full max-w-xl pb-8 flex-1">
+      <main className="relative z-10 mx-auto w-full max-w-6xl pb-8 flex-1">
         <div className="px-5 pt-4">
           <Link href="/" className="text-sm" style={{ color: "var(--ink-2)" }}>
             ← Collage
           </Link>
         </div>
-        <BirdDetail key={slug} slug={slug} seed={s ? { sci: s.sci, com: s.com, slug: s.slug, art: s.art } : undefined} shared={false} />
+        <BirdDetail key={slug} slug={slug} seed={s ? { sci: s.sci, com: s.com, slug: s.slug, art: s.art } : undefined} shared={false} wide />
       </main>
     </>
   );

@@ -5,6 +5,7 @@ import type { StatsResponse } from "@/lib/model";
 import { fmtDay, hourLabel, plural } from "@/lib/format";
 import { Header } from "./Header";
 import { Bars } from "./Bars";
+import { Rhythm } from "./Rhythm";
 import { BirdArt } from "./BirdArt";
 import { usePolling } from "./usePolling";
 
@@ -35,6 +36,10 @@ export function StatsView() {
               <Tile label="New this week" value={data.week.newSpecies} sub="never heard before" accent={data.week.newSpecies > 0} />
               <Tile label="All time" value={data.allTime.species} sub={`${plural(data.allTime.detections, "call")} near ${station}`} />
             </section>
+
+            <Panel title="Today's rhythm" hint="calls per hour, over last week's average">
+              <Rhythm data={data.rhythm} height={170} />
+            </Panel>
 
             <section className="grid md:grid-cols-2 gap-6">
               <Panel title="Different birds per day" hint="Last 30 days">

@@ -69,8 +69,12 @@ export type SpeciesSummary = {
   clip?: string; // most recent uploaded clip in range
 };
 
+/** Half-hour buckets through the station day: today so far, and the mean of the previous 7 days. */
+export type Rhythm = { today: number[]; week: number[]; nowMinute: number; buckets: number };
+
 export type DetectionsResponse = {
   range: Range;
+  rhythm: Rhythm;
   now: string;
   tz: string;
   demo: boolean;
@@ -91,6 +95,7 @@ export type StatsResponse = {
   allTime: { detections: number; species: number };
   busiestHour: number | null;
   hours: number[]; // last 7 days, 24 buckets
+  rhythm: Rhythm;
   days: DaySeries[]; // last 30 days
   topWeek: { sci: string; com: string; slug: string; n: number; art: SpeciesSummary["art"] }[];
   newThisWeek: { sci: string; com: string; slug: string; first: string; art: SpeciesSummary["art"] }[];
@@ -111,12 +116,17 @@ export type SpeciesDetail = {
   hours: number[]; // last 7 days
   days: { date: string; n: number }[]; // last 30 days
   clips: { url: string; at: string; conf: number }[]; // newest first
+  daysHeard: number;
+  daysTotal: number;
+  rarity: "common" | "regular" | "occasional" | "rare";
+  station?: { name?: string; lat?: number; lon?: number };
 };
 
 export type SpeciesMedia = {
   fetched: string;
   wikipedia?: { title: string; url: string; extract: string; thumb?: string };
   rangeMap?: { url: string; page: string; credit?: string };
+  gbif?: { key: number; family?: string; order?: string; genus?: string };
   call?: { url: string; credit: string; source: "xeno-canto" | "wikimedia"; page?: string };
   links: { label: string; url: string }[];
 };

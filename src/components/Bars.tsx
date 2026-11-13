@@ -53,7 +53,7 @@ export function Bars({
           })}
         </svg>
         <div className="absolute inset-x-0 bottom-0 flex justify-between text-[11px] tabular-nums" style={{ color: "var(--ink-soft)" }}>
-          {labels.map((l, i) => (i % tickEvery === 0 || i === n - 1 ? <span key={i} className="absolute" style={{ left: `${(i / n) * 100}%`, transform: i === n - 1 ? "translateX(-100%)" : undefined }}>{l}</span> : null))}
+          {labels.map((l, i) => (i % tickEvery === 0 || (i === n - 1 && (n - 1) % tickEvery > tickEvery / 2) ? <span key={i} className="absolute" style={{ left: `${(i / n) * 100}%`, transform: i === n - 1 ? "translateX(-100%)" : undefined }}>{l}</span> : null))}
         </div>
         {hover !== null && values[hover] > 0 && (
           <div

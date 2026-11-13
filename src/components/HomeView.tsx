@@ -8,6 +8,7 @@ import { Header } from "./Header";
 import { RangeControl } from "./RangeControl";
 import { Collage } from "./Collage";
 import { BirdSheet } from "./BirdSheet";
+import { Rhythm } from "./Rhythm";
 import { usePolling } from "./usePolling";
 
 export function HomeView() {
@@ -69,6 +70,15 @@ export function HomeView() {
           </div>
         )}
         {shown && <Collage species={shown.species} rangeKey={range} selected={selected} onSelect={(slug) => setParam("bird", slug)} />}
+        {shown?.rhythm && (
+          <section className="card mt-4 px-4 pt-4 pb-2">
+            <div className="flex items-baseline justify-between mb-1 px-1">
+              <h2 className="eyebrow" style={{ color: "var(--ink)" }}>Today&apos;s rhythm</h2>
+              <span className="text-xs" style={{ color: "var(--ink-soft)" }}>calls per hour, over last week&apos;s average</span>
+            </div>
+            <Rhythm data={shown.rhythm} />
+          </section>
+        )}
       </main>
       <BirdSheet slug={selected} seed={seed} onClose={() => setParam("bird", null)} />
     </LayoutGroup>
